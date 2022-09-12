@@ -1,0 +1,1037 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Players>
+  <Player Name="&quot;Adam Donachie&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Catcher&quot;" Height="74" Weight="180" Age="22.99" />
+  <Player Name="&quot;Paul Bako&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Catcher&quot;" Height="74" Weight="215" Age="34.69" />
+  <Player Name="&quot;Ramon Hernandez&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Catcher&quot;" Height="72" Weight="210" Age="30.78" />
+  <Player Name="&quot;Kevin Millar&quot;" Team=" &quot;BAL&quot;" Position=" &quot;First Baseman&quot;" Height="72" Weight="210" Age="35.43" />
+  <Player Name="&quot;Chris Gomez&quot;" Team=" &quot;BAL&quot;" Position=" &quot;First Baseman&quot;" Height="73" Weight="188" Age="35.71" />
+  <Player Name="&quot;Brian Roberts&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Second Baseman&quot;" Height="69" Weight="176" Age="29.39" />
+  <Player Name="&quot;Miguel Tejada&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Shortstop&quot;" Height="69" Weight="209" Age="30.77" />
+  <Player Name="&quot;Melvin Mora&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Third Baseman&quot;" Height="71" Weight="200" Age="35.07" />
+  <Player Name="&quot;Aubrey Huff&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Third Baseman&quot;" Height="76" Weight="231" Age="30.19" />
+  <Player Name="&quot;Adam Stern&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="180" Age="27.05" />
+  <Player Name="&quot;Jeff Fiorentino&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="188" Age="23.88" />
+  <Player Name="&quot;Freddie Bynum&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="180" Age="26.96" />
+  <Player Name="&quot;Nick Markakis&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="185" Age="23.29" />
+  <Player Name="&quot;Brandon Fahey&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="160" Age="26.11" />
+  <Player Name="&quot;Corey Patterson&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Outfielder&quot;" Height="69" Weight="180" Age="27.55" />
+  <Player Name="&quot;Jay Payton&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="185" Age="34.27" />
+  <Player Name="&quot;Jay Gibbons&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Designated Hitter&quot;" Height="72" Weight="197" Age="30" />
+  <Player Name="&quot;Erik Bedard&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="189" Age="27.99" />
+  <Player Name="&quot;Hayden Penn&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="185" Age="22.38" />
+  <Player Name="&quot;Adam Loewen&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="78" Weight="219" Age="22.89" />
+  <Player Name="&quot;Daniel Cabrera&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="79" Weight="230" Age="25.76" />
+  <Player Name="&quot;Steve Trachsel&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="205" Age="36.33" />
+  <Player Name="&quot;Jaret Wright&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="230" Age="31.17" />
+  <Player Name="&quot;Kris Benson&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="195" Age="32.31" />
+  <Player Name="&quot;Scott Williamson&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="180" Age="31.03" />
+  <Player Name="&quot;John Parrish&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="192" Age="29.26" />
+  <Player Name="&quot;Danys Baez&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="225" Age="29.47" />
+  <Player Name="&quot;Chad Bradford&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="203" Age="32.46" />
+  <Player Name="&quot;Jamie Walker&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="195" Age="35.67" />
+  <Player Name="&quot;Brian Burres&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="182" Age="25.89" />
+  <Player Name="&quot;Kurt Birkins&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="188" Age="26.55" />
+  <Player Name="&quot;James Hoey&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="200" Age="24.17" />
+  <Player Name="&quot;Sendy Rleal&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="180" Age="26.69" />
+  <Player Name="&quot;Chris Ray&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="200" Age="25.13" />
+  <Player Name="&quot;Jeremy Guthrie&quot;" Team=" &quot;BAL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="200" Age="27.9" />
+  <Player Name="&quot;A.J. Pierzynski&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Catcher&quot;" Height="75" Weight="245" Age="30.17" />
+  <Player Name="&quot;Toby Hall&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Catcher&quot;" Height="75" Weight="240" Age="31.36" />
+  <Player Name="&quot;Paul Konerko&quot;" Team=" &quot;CWS&quot;" Position=" &quot;First Baseman&quot;" Height="74" Weight="215" Age="30.99" />
+  <Player Name="&quot;Tadahito Iguchi&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Second Baseman&quot;" Height="69" Weight="185" Age="32.24" />
+  <Player Name="&quot;Juan Uribe&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Shortstop&quot;" Height="71" Weight="175" Age="27.61" />
+  <Player Name="&quot;Alex Cintron&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Shortstop&quot;" Height="74" Weight="199" Age="28.2" />
+  <Player Name="&quot;Joe Crede&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Third Baseman&quot;" Height="73" Weight="200" Age="28.85" />
+  <Player Name="&quot;Josh Fields&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Third Baseman&quot;" Height="73" Weight="215" Age="24.21" />
+  <Player Name="&quot;Ryan Sweeney&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Outfielder&quot;" Height="76" Weight="200" Age="22.02" />
+  <Player Name="&quot;Brian N. Anderson&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="205" Age="24.97" />
+  <Player Name="&quot;Luis Terrero&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="206" Age="26.78" />
+  <Player Name="&quot;Pablo Ozuna&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="186" Age="32.51" />
+  <Player Name="&quot;Scott Podsednik&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="188" Age="30.95" />
+  <Player Name="&quot;Jermaine Dye&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Outfielder&quot;" Height="77" Weight="220" Age="33.09" />
+  <Player Name="&quot;Darin Erstad&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="210" Age="32.74" />
+  <Player Name="&quot;Rob Mackowiak&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="195" Age="30.69" />
+  <Player Name="&quot;Jim Thome&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Designated Hitter&quot;" Height="76" Weight="244" Age="36.51" />
+  <Player Name="&quot;Jerry Owens&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Designated Hitter&quot;" Height="75" Weight="195" Age="26.03" />
+  <Player Name="&quot;Charlie Haeger&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="200" Age="23.45" />
+  <Player Name="&quot;Heath Phillips&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="200" Age="24.94" />
+  <Player Name="&quot;Gavin Floyd&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="212" Age="24.09" />
+  <Player Name="&quot;Jose Contreras&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="224" Age="35.23" />
+  <Player Name="&quot;Jon Garland&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="78" Weight="210" Age="27.43" />
+  <Player Name="&quot;Javier Vazquez&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="205" Age="30.6" />
+  <Player Name="&quot;Mark Buehrle&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="220" Age="27.94" />
+  <Player Name="&quot;Mike MacDougal&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="195" Age="29.99" />
+  <Player Name="&quot;David Aardsma&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="200" Age="25.17" />
+  <Player Name="&quot;Andrew Sisco&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="81" Weight="260" Age="24.13" />
+  <Player Name="&quot;Matt Thornton&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="228" Age="30.46" />
+  <Player Name="&quot;Bobby Jenks&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="270" Age="25.96" />
+  <Player Name="&quot;Boone Logan&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="200" Age="22.55" />
+  <Player Name="&quot;Sean Tracey&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="210" Age="26.29" />
+  <Player Name="&quot;Nick Masset&quot;" Team=" &quot;CWS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="190" Age="24.79" />
+  <Player Name="&quot;Jose Molina&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Catcher&quot;" Height="74" Weight="220" Age="31.74" />
+  <Player Name="&quot;Jeff Mathis&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Catcher&quot;" Height="72" Weight="180" Age="23.92" />
+  <Player Name="&quot;Mike Napoli&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Catcher&quot;" Height="72" Weight="205" Age="25.33" />
+  <Player Name="&quot;Casey Kotchman&quot;" Team=" &quot;ANA&quot;" Position=" &quot;First Baseman&quot;" Height="75" Weight="210" Age="24.02" />
+  <Player Name="&quot;Kendry Morales&quot;" Team=" &quot;ANA&quot;" Position=" &quot;First Baseman&quot;" Height="73" Weight="220" Age="23.7" />
+  <Player Name="&quot;Shea Hillenbrand&quot;" Team=" &quot;ANA&quot;" Position=" &quot;First Baseman&quot;" Height="73" Weight="211" Age="31.59" />
+  <Player Name="&quot;Robb Quinlan&quot;" Team=" &quot;ANA&quot;" Position=" &quot;First Baseman&quot;" Height="73" Weight="200" Age="29.95" />
+  <Player Name="&quot;Howie Kendrick&quot;" Team=" &quot;ANA&quot;" Position=" &quot;First Baseman&quot;" Height="70" Weight="180" Age="23.64" />
+  <Player Name="&quot;Orlando Cabrera&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Shortstop&quot;" Height="70" Weight="190" Age="32.33" />
+  <Player Name="&quot;Erick Aybar&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Shortstop&quot;" Height="70" Weight="170" Age="23.13" />
+  <Player Name="&quot;Dallas McPherson&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Third Baseman&quot;" Height="76" Weight="230" Age="26.6" />
+  <Player Name="&quot;Maicer Izturis&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Third Baseman&quot;" Height="68" Weight="155" Age="26.46" />
+  <Player Name="&quot;Reggie Willits&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="185" Age="25.75" />
+  <Player Name="&quot;Tommy Murphy&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="185" Age="27.51" />
+  <Player Name="&quot;Terry Evans&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="200" Age="25.11" />
+  <Player Name="&quot;Gary Matthews Jr.&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="225" Age="32.51" />
+  <Player Name="&quot;Garret Anderson&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="225" Age="34.67" />
+  <Player Name="&quot;Vladimir Guerrero&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="220" Age="31.06" />
+  <Player Name="&quot;Chone Figgins&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Outfielder&quot;" Height="68" Weight="160" Age="29.1" />
+  <Player Name="&quot;Juan Rivera&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="205" Age="28.66" />
+  <Player Name="&quot;John Lackey&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="78" Weight="235" Age="28.35" />
+  <Player Name="&quot;Bartolo Colon&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="71" Weight="250" Age="33.77" />
+  <Player Name="&quot;Kelvim Escobar&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="210" Age="30.89" />
+  <Player Name="&quot;Dustin Moseley&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="190" Age="37.74" />
+  <Player Name="&quot;Ervin Santana&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="160" Age="24.14" />
+  <Player Name="&quot;Joe Saunders&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="200" Age="25.71" />
+  <Player Name="&quot;Jered Weaver&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="79" Weight="205" Age="24.41" />
+  <Player Name="&quot;Chris Resop&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="222" Age="24.32" />
+  <Player Name="&quot;Phil Seibel&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="195" Age="28.09" />
+  <Player Name="&quot;Justin Speier&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="205" Age="33.31" />
+  <Player Name="&quot;Darren Oliver&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="220" Age="36.4" />
+  <Player Name="&quot;Hector Carrasco&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="220" Age="37.36" />
+  <Player Name="&quot;Scot Shields&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="170" Age="31.61" />
+  <Player Name="&quot;Francisco Rodriguez&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="185" Age="25.14" />
+  <Player Name="&quot;Greg Jones&quot;" Team=" &quot;ANA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="195" Age="30.29" />
+  <Player Name="&quot;Doug Mirabelli&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Catcher&quot;" Height="73" Weight="220" Age="36.37" />
+  <Player Name="&quot;Jason Varitek&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Catcher&quot;" Height="74" Weight="230" Age="34.89" />
+  <Player Name="&quot;George Kottaras&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Catcher&quot;" Height="72" Weight="180" Age="23.79" />
+  <Player Name="&quot;Kevin Youkilis&quot;" Team=" &quot;BOS&quot;" Position=" &quot;First Baseman&quot;" Height="73" Weight="220" Age="27.96" />
+  <Player Name="&quot;Dustin Pedroia&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Second Baseman&quot;" Height="69" Weight="180" Age="23.54" />
+  <Player Name="&quot;Alex Cora&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="180" Age="31.37" />
+  <Player Name="&quot;Julio Lugo&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Shortstop&quot;" Height="73" Weight="170" Age="31.29" />
+  <Player Name="&quot;Mike Lowell&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Third Baseman&quot;" Height="75" Weight="210" Age="33.01" />
+  <Player Name="&quot;Wily Mo Pe?a&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="215" Age="25.1" />
+  <Player Name="&quot;J.D. Drew&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="200" Age="31.28" />
+  <Player Name="&quot;Manny Ramirez&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="213" Age="34.75" />
+  <Player Name="&quot;Brandon Moss&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="180" Age="23.46" />
+  <Player Name="&quot;David Murphy&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Outfielder&quot;" Height="76" Weight="192" Age="25.37" />
+  <Player Name="&quot;Eric Hinske&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="235" Age="29.57" />
+  <Player Name="&quot;Coco Crisp&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="185" Age="27.33" />
+  <Player Name="&quot;David Ortiz&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Designated Hitter&quot;" Height="76" Weight="230" Age="31.28" />
+  <Player Name="&quot;Curt Schilling&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="235" Age="40.29" />
+  <Player Name="&quot;Tim Wakefield&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="210" Age="40.58" />
+  <Player Name="&quot;Josh Beckett&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="222" Age="26.79" />
+  <Player Name="&quot;Matt Clement&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="210" Age="32.55" />
+  <Player Name="&quot;Jonathan Papelbon&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="230" Age="26.27" />
+  <Player Name="&quot;Kyle Snyder&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="80" Weight="220" Age="29.47" />
+  <Player Name="&quot;Devern Hansack&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="180" Age="29.07" />
+  <Player Name="&quot;Jon Lester&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="190" Age="23.15" />
+  <Player Name="&quot;Kason Gabbard&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="200" Age="24.9" />
+  <Player Name="&quot;Craig Hansen&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="210" Age="23.29" />
+  <Player Name="&quot;Hideki Okajima&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="194" Age="31.18" />
+  <Player Name="&quot;Craig Breslow&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="180" Age="26.56" />
+  <Player Name="&quot;Manny Delcarmen&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="190" Age="25.03" />
+  <Player Name="&quot;Brendan Donnelly&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="240" Age="35.66" />
+  <Player Name="&quot;Javier Lopez&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="200" Age="29.64" />
+  <Player Name="&quot;J.C. Romero&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="198" Age="30.74" />
+  <Player Name="&quot;Joel Pineiro&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="200" Age="28.43" />
+  <Player Name="&quot;Julian Tavarez&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="195" Age="33.77" />
+  <Player Name="&quot;Mike Timlin&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="210" Age="40.97" />
+  <Player Name="&quot;Nick DeBarr&quot;" Team=" &quot;BOS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="220" Age="23.52" />
+  <Player Name="&quot;Victor Martinez&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Catcher&quot;" Height="74" Weight="190" Age="28.19" />
+  <Player Name="&quot;Kelly Shoppach&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Catcher&quot;" Height="73" Weight="210" Age="26.84" />
+  <Player Name="&quot;Ryan Garko&quot;" Team=" &quot;CLE&quot;" Position=" &quot;First Baseman&quot;" Height="74" Weight="225" Age="26.16" />
+  <Player Name="&quot;Joe Inglett&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Second Baseman&quot;" Height="70" Weight="180" Age="28.67" />
+  <Player Name="&quot;Josh Barfield&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Second Baseman&quot;" Height="72" Weight="185" Age="24.2" />
+  <Player Name="&quot;Hector Luna&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Second Baseman&quot;" Height="73" Weight="170" Age="27.08" />
+  <Player Name="&quot;Jhonny Peralta&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Shortstop&quot;" Height="73" Weight="185" Age="24.76" />
+  <Player Name="&quot;Andy Marte&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Third Baseman&quot;" Height="73" Weight="185" Age="23.36" />
+  <Player Name="&quot;Ben Francisco&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="180" Age="25.35" />
+  <Player Name="&quot;Shin-Soo Choo&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="178" Age="24.63" />
+  <Player Name="&quot;Franklin Gutierrez&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="175" Age="24.02" />
+  <Player Name="&quot;Grady Sizemore&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="200" Age="24.58" />
+  <Player Name="&quot;Jason Michaels&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="204" Age="30.82" />
+  <Player Name="&quot;Trot Nixon&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="211" Age="32.89" />
+  <Player Name="&quot;David Dellucci&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="190" Age="33.33" />
+  <Player Name="&quot;Casey Blake&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="210" Age="33.52" />
+  <Player Name="&quot;Travis Hafner&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Designated Hitter&quot;" Height="75" Weight="240" Age="29.74" />
+  <Player Name="&quot;Paul Byrd&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="190" Age="36.24" />
+  <Player Name="&quot;Cliff Lee&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="190" Age="28.5" />
+  <Player Name="&quot;Jake Westbrook&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="185" Age="29.42" />
+  <Player Name="&quot;C.C. Sabathia&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Starting Pitcher&quot;" Height="79" Weight="290" Age="26.61" />
+  <Player Name="&quot;Jeremy Sowers&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="175" Age="23.79" />
+  <Player Name="&quot;Rafael Perez&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="185" Age="24.96" />
+  <Player Name="&quot;Brian Slocum&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="200" Age="25.93" />
+  <Player Name="&quot;Edward Mujica&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="220" Age="22.81" />
+  <Player Name="&quot;Fernando Cabrera&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="170" Age="25.29" />
+  <Player Name="&quot;Tom Mastny&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="220" Age="26.07" />
+  <Player Name="&quot;Juan Lara&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="190" Age="26.09" />
+  <Player Name="&quot;Fausto Carmona&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="220" Age="23.23" />
+  <Player Name="&quot;Aaron Fultz&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="205" Age="33.49" />
+  <Player Name="&quot;Rafael Betancourt&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="200" Age="31.84" />
+  <Player Name="&quot;Roberto Hernandez&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="250" Age="42.3" />
+  <Player Name="&quot;Joe Borowski&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="225" Age="35.82" />
+  <Player Name="&quot;Matt Miller&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="215" Age="35.27" />
+  <Player Name="&quot;Jason Davis&quot;" Team=" &quot;CLE&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="210" Age="26.81" />
+  <Player Name="&quot;Mike Piazza&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Catcher&quot;" Height="75" Weight="215" Age="38.49" />
+  <Player Name="&quot;Jason Kendall&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Catcher&quot;" Height="72" Weight="195" Age="32.68" />
+  <Player Name="&quot;Adam Melhuse&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Catcher&quot;" Height="74" Weight="200" Age="34.93" />
+  <Player Name="&quot;Nick Swisher&quot;" Team=" &quot;OAK&quot;" Position=" &quot;First Baseman&quot;" Height="72" Weight="194" Age="26.26" />
+  <Player Name="&quot;Dan Johnson&quot;" Team=" &quot;OAK&quot;" Position=" &quot;First Baseman&quot;" Height="74" Weight="220" Age="27.56" />
+  <Player Name="&quot;Donald Murphy&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Second Baseman&quot;" Height="70" Weight="180" Age="23.98" />
+  <Player Name="&quot;Mark Ellis&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Second Baseman&quot;" Height="71" Weight="180" Age="29.73" />
+  <Player Name="&quot;Marco Scutaro&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Shortstop&quot;" Height="70" Weight="170" Age="31.33" />
+  <Player Name="&quot;Bobby Crosby&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Shortstop&quot;" Height="75" Weight="195" Age="27.13" />
+  <Player Name="&quot;Mark Kiger&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Shortstop&quot;" Height="71" Weight="180" Age="26.75" />
+  <Player Name="&quot;Antonio Perez&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Third Baseman&quot;" Height="71" Weight="170" Age="27.09" />
+  <Player Name="&quot;Eric Chavez&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Third Baseman&quot;" Height="73" Weight="206" Age="29.23" />
+  <Player Name="&quot;Milton Bradley&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="205" Age="28.88" />
+  <Player Name="&quot;Shannon Stewart&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="200" Age="33.01" />
+  <Player Name="&quot;Bobby Kielty&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="225" Age="30.57" />
+  <Player Name="&quot;Mark Kotsay&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="201" Age="31.24" />
+  <Player Name="&quot;Ryan Goleski&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="225" Age="24.95" />
+  <Player Name="&quot;Jeremy Brown&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Designated Hitter&quot;" Height="70" Weight="226" Age="27.35" />
+  <Player Name="&quot;Jason Windsor&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="233" Age="24.62" />
+  <Player Name="&quot;David Shafer&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="180" Age="24.98" />
+  <Player Name="&quot;Joe Blanton&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="225" Age="26.22" />
+  <Player Name="&quot;Brad Halsey&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="180" Age="26.04" />
+  <Player Name="&quot;Dan Haren&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="220" Age="26.45" />
+  <Player Name="&quot;Rich Harden&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="180" Age="25.25" />
+  <Player Name="&quot;Joe Kennedy&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="237" Age="27.77" />
+  <Player Name="&quot;Esteban Loaiza&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="215" Age="35.16" />
+  <Player Name="&quot;Alan Embree&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="190" Age="37.1" />
+  <Player Name="&quot;Jay Witasick&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="235" Age="34.51" />
+  <Player Name="&quot;Justin Duchscherer&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="190" Age="29.28" />
+  <Player Name="&quot;Kiko Calero&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="180" Age="32.14" />
+  <Player Name="&quot;Chad Gaudin&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="165" Age="23.94" />
+  <Player Name="&quot;Lenny DiNardo&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="195" Age="27.45" />
+  <Player Name="&quot;Scott Dunn&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="200" Age="28.77" />
+  <Player Name="&quot;Huston Street&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="190" Age="23.58" />
+  <Player Name="&quot;Ron Flores&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="190" Age="27.56" />
+  <Player Name="&quot;Jay Marshall&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="185" Age="24.01" />
+  <Player Name="&quot;Marcus McBeth&quot;" Team=" &quot;OAK&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="185" Age="26.52" />
+  <Player Name="&quot;Jorge Posada&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Catcher&quot;" Height="74" Weight="205" Age="35.54" />
+  <Player Name="&quot;Wil Nieves&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Catcher&quot;" Height="71" Weight="190" Age="29.43" />
+  <Player Name="&quot;Andy Phillips&quot;" Team=" &quot;NYY&quot;" Position=" &quot;First Baseman&quot;" Height="72" Weight="205" Age="29.9" />
+  <Player Name="&quot;Doug Mientkiewicz&quot;" Team=" &quot;NYY&quot;" Position=" &quot;First Baseman&quot;" Height="74" Weight="206" Age="32.7" />
+  <Player Name="&quot;Josh Phelps&quot;" Team=" &quot;NYY&quot;" Position=" &quot;First Baseman&quot;" Height="75" Weight="220" Age="28.8" />
+  <Player Name="&quot;Miguel Cairo&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Second Baseman&quot;" Height="73" Weight="208" Age="32.82" />
+  <Player Name="&quot;Robinson Cano&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Second Baseman&quot;" Height="72" Weight="170" Age="24.36" />
+  <Player Name="&quot;Derek Jeter&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Shortstop&quot;" Height="75" Weight="195" Age="32.68" />
+  <Player Name="&quot;Alex Rodriguez&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Third Baseman&quot;" Height="75" Weight="210" Age="31.59" />
+  <Player Name="&quot;Johnny Damon&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="190" Age="33.32" />
+  <Player Name="&quot;Bobby Abreu&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="211" Age="32.97" />
+  <Player Name="&quot;Hideki Matsui&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="230" Age="32.72" />
+  <Player Name="&quot;Melky Cabrera&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="170" Age="22.55" />
+  <Player Name="&quot;Kevin Thompson&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="185" Age="27.45" />
+  <Player Name="&quot;Jason Giambi&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Designated Hitter&quot;" Height="75" Weight="230" Age="36.14" />
+  <Player Name="&quot;Mike Mussina&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="185" Age="38.23" />
+  <Player Name="&quot;Carl Pavano&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="241" Age="31.14" />
+  <Player Name="&quot;Andy Pettitte&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="225" Age="34.71" />
+  <Player Name="&quot;Darrell Rasner&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="210" Age="26.13" />
+  <Player Name="&quot;Jeff Karstens&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="175" Age="24.43" />
+  <Player Name="&quot;Humberto Sanchez&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Starting Pitcher&quot;" Height="78" Weight="230" Age="23.76" />
+  <Player Name="&quot;Chien-Ming Wang&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="200" Age="26.92" />
+  <Player Name="&quot;Sean Henn&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="215" Age="25.85" />
+  <Player Name="&quot;Scott Proctor&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="198" Age="30.16" />
+  <Player Name="&quot;Brian Bruney&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="226" Age="25.03" />
+  <Player Name="&quot;Chris Britton&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="278" Age="24.21" />
+  <Player Name="&quot;T.J. Beam&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Relief Pitcher&quot;" Height="79" Weight="215" Age="26.51" />
+  <Player Name="&quot;Jose Veras&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="230" Age="26.36" />
+  <Player Name="&quot;Kyle Farnsworth&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="240" Age="30.88" />
+  <Player Name="&quot;Luis Vizcaino&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="184" Age="32.57" />
+  <Player Name="&quot;Mike Myers&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="219" Age="37.68" />
+  <Player Name="&quot;Mariano Rivera&quot;" Team=" &quot;NYY&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="170" Age="37.25" />
+  <Player Name="&quot;Ivan Rodriguez&quot;" Team=" &quot;DET&quot;" Position=" &quot;Catcher&quot;" Height="69" Weight="218" Age="35.25" />
+  <Player Name="&quot;Vance Wilson&quot;" Team=" &quot;DET&quot;" Position=" &quot;Catcher&quot;" Height="71" Weight="190" Age="33.95" />
+  <Player Name="&quot;Sean Casey&quot;" Team=" &quot;DET&quot;" Position=" &quot;First Baseman&quot;" Height="76" Weight="225" Age="32.66" />
+  <Player Name="&quot;Chris Shelton&quot;" Team=" &quot;DET&quot;" Position=" &quot;First Baseman&quot;" Height="72" Weight="220" Age="26.68" />
+  <Player Name="&quot;Omar Infante&quot;" Team=" &quot;DET&quot;" Position=" &quot;Second Baseman&quot;" Height="72" Weight="176" Age="25.18" />
+  <Player Name="&quot;Placido Polanco&quot;" Team=" &quot;DET&quot;" Position=" &quot;Second Baseman&quot;" Height="70" Weight="190" Age="31.39" />
+  <Player Name="&quot;Neifi Perez&quot;" Team=" &quot;DET&quot;" Position=" &quot;Second Baseman&quot;" Height="72" Weight="197" Age="33.74" />
+  <Player Name="&quot;Carlos Guillen&quot;" Team=" &quot;DET&quot;" Position=" &quot;Shortstop&quot;" Height="73" Weight="204" Age="31.42" />
+  <Player Name="&quot;Ramon Santiago&quot;" Team=" &quot;DET&quot;" Position=" &quot;Shortstop&quot;" Height="71" Weight="167" Age="27.5" />
+  <Player Name="&quot;Tony Giarratano&quot;" Team=" &quot;DET&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="180" Age="24.25" />
+  <Player Name="&quot;Brandon Inge&quot;" Team=" &quot;DET&quot;" Position=" &quot;Third Baseman&quot;" Height="71" Weight="195" Age="29.78" />
+  <Player Name="&quot;Craig Monroe&quot;" Team=" &quot;DET&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="220" Age="30" />
+  <Player Name="&quot;Magglio Ordo?ez&quot;" Team=" &quot;DET&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="215" Age="33.09" />
+  <Player Name="&quot;Curtis Granderson&quot;" Team=" &quot;DET&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="185" Age="25.96" />
+  <Player Name="&quot;Brent Clevlen&quot;" Team=" &quot;DET&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="190" Age="23.34" />
+  <Player Name="&quot;Marcus Thames&quot;" Team=" &quot;DET&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="205" Age="29.98" />
+  <Player Name="&quot;Gary Sheffield&quot;" Team=" &quot;DET&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="205" Age="38.28" />
+  <Player Name="&quot;Mike Rabelo&quot;" Team=" &quot;DET&quot;" Position=" &quot;Designated Hitter&quot;" Height="73" Weight="200" Age="27.12" />
+  <Player Name="&quot;Zach Miner&quot;" Team=" &quot;DET&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="200" Age="24.97" />
+  <Player Name="&quot;Jeremy Bonderman&quot;" Team=" &quot;DET&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="210" Age="24.34" />
+  <Player Name="&quot;Nate Robertson&quot;" Team=" &quot;DET&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="215" Age="29.49" />
+  <Player Name="&quot;Justin Verlander&quot;" Team=" &quot;DET&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="200" Age="24.02" />
+  <Player Name="&quot;Virgil Vasquez&quot;" Team=" &quot;DET&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="205" Age="24.73" />
+  <Player Name="&quot;Kenny Rogers&quot;" Team=" &quot;DET&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="211" Age="42.3" />
+  <Player Name="&quot;Mike Maroth&quot;" Team=" &quot;DET&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="190" Age="29.54" />
+  <Player Name="&quot;Fernando Rodney&quot;" Team=" &quot;DET&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="208" Age="29.95" />
+  <Player Name="&quot;Chad Durbin&quot;" Team=" &quot;DET&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="200" Age="29.24" />
+  <Player Name="&quot;Jason Grilli&quot;" Team=" &quot;DET&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="210" Age="30.3" />
+  <Player Name="&quot;Jose Mesa&quot;" Team=" &quot;DET&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="232" Age="40.77" />
+  <Player Name="&quot;Todd Jones&quot;" Team=" &quot;DET&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="230" Age="38.85" />
+  <Player Name="&quot;Joel Zumaya&quot;" Team=" &quot;DET&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="210" Age="22.31" />
+  <Player Name="&quot;Jordan Tata&quot;" Team=" &quot;DET&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="220" Age="25.44" />
+  <Player Name="&quot;Andrew Miller&quot;" Team=" &quot;DET&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="210" Age="21.78" />
+  <Player Name="&quot;Yorman Bazardo&quot;" Team=" &quot;DET&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="202" Age="22.64" />
+  <Player Name="&quot;Wilfredo Ledezma&quot;" Team=" &quot;DET&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="212" Age="26.11" />
+  <Player Name="&quot;Roman Colon&quot;" Team=" &quot;DET&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="225" Age="27.55" />
+  <Player Name="&quot;Edward Campusano&quot;" Team=" &quot;DET&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="170" Age="24.63" />
+  <Player Name="&quot;Rene Rivera&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Catcher&quot;" Height="70" Weight="190" Age="23.58" />
+  <Player Name="&quot;Kenji Johjima&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Catcher&quot;" Height="72" Weight="200" Age="30.73" />
+  <Player Name="&quot;Richie Sexson&quot;" Team=" &quot;SEA&quot;" Position=" &quot;First Baseman&quot;" Height="80" Weight="237" Age="32.17" />
+  <Player Name="&quot;Ben Broussard&quot;" Team=" &quot;SEA&quot;" Position=" &quot;First Baseman&quot;" Height="74" Weight="220" Age="30.43" />
+  <Player Name="&quot;Jose Lopez&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Second Baseman&quot;" Height="74" Weight="170" Age="23.27" />
+  <Player Name="&quot;Jose Vidro&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Second Baseman&quot;" Height="71" Weight="193" Age="32.51" />
+  <Player Name="&quot;Yuniesky Betancourt&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Shortstop&quot;" Height="70" Weight="190" Age="25.08" />
+  <Player Name="&quot;Oswaldo Navarro&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="150" Age="22.41" />
+  <Player Name="&quot;Adrian Beltre&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Third Baseman&quot;" Height="71" Weight="220" Age="27.9" />
+  <Player Name="&quot;Raul Ibanez&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="200" Age="34.74" />
+  <Player Name="&quot;Jose Guillen&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="190" Age="30.79" />
+  <Player Name="&quot;Jeremy Reed&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="185" Age="25.71" />
+  <Player Name="&quot;Willie Bloomquist&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="185" Age="29.26" />
+  <Player Name="&quot;Adam Jones&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="200" Age="21.58" />
+  <Player Name="&quot;Ichiro Suzuki&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Outfielder&quot;" Height="69" Weight="172" Age="33.36" />
+  <Player Name="&quot;Mike Morse&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Outfielder&quot;" Height="76" Weight="220" Age="24.94" />
+  <Player Name="&quot;Felix Hernandez&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="225" Age="20.9" />
+  <Player Name="&quot;Ryan Feierabend&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="190" Age="21.52" />
+  <Player Name="&quot;Sean White&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="195" Age="25.85" />
+  <Player Name="&quot;Horacio Ramirez&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="219" Age="27.27" />
+  <Player Name="&quot;Cha Baek&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="190" Age="26.75" />
+  <Player Name="&quot;Miguel Batista&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="197" Age="36.03" />
+  <Player Name="&quot;Jeff Weaver&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="200" Age="30.52" />
+  <Player Name="&quot;Jarrod Washburn&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="195" Age="32.55" />
+  <Player Name="&quot;George Sherrill&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="210" Age="29.86" />
+  <Player Name="&quot;Julio Mateo&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="177" Age="29.58" />
+  <Player Name="&quot;J.J. Putz&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="220" Age="30.02" />
+  <Player Name="&quot;Chris Reitsma&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="235" Age="29.16" />
+  <Player Name="&quot;Cesar Jimenez&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="180" Age="22.3" />
+  <Player Name="&quot;Eric O'Flaherty&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="195" Age="22.06" />
+  <Player Name="&quot;Jon Huber&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="195" Age="25.65" />
+  <Player Name="&quot;Jake Woods&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="190" Age="25.49" />
+  <Player Name="&quot;Sean Green&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="230" Age="27.86" />
+  <Player Name="&quot;Mark Lowe&quot;" Team=" &quot;SEA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="190" Age="23.73" />
+  <Player Name="&quot;Josh Paul&quot;" Team=" &quot;TB&quot;" Position=" &quot;Catcher&quot;" Height="73" Weight="200" Age="31.78" />
+  <Player Name="&quot;Dioner Navarro&quot;" Team=" &quot;TB&quot;" Position=" &quot;Catcher&quot;" Height="70" Weight="190" Age="23.06" />
+  <Player Name="&quot;Shawn Riggans&quot;" Team=" &quot;TB&quot;" Position=" &quot;Catcher&quot;" Height="74" Weight="190" Age="26.6" />
+  <Player Name="&quot;Ty Wigginton&quot;" Team=" &quot;TB&quot;" Position=" &quot;First Baseman&quot;" Height="72" Weight="200" Age="29.39" />
+  <Player Name="&quot;Brendan Harris&quot;" Team=" &quot;TB&quot;" Position=" &quot;Second Baseman&quot;" Height="73" Weight="200" Age="26.51" />
+  <Player Name="&quot;Jorge Cantu&quot;" Team=" &quot;TB&quot;" Position=" &quot;Second Baseman&quot;" Height="73" Weight="184" Age="25.08" />
+  <Player Name="&quot;Ben Zobrist&quot;" Team=" &quot;TB&quot;" Position=" &quot;Shortstop&quot;" Height="75" Weight="200" Age="25.76" />
+  <Player Name="&quot;B.J. Upton&quot;" Team=" &quot;TB&quot;" Position=" &quot;Third Baseman&quot;" Height="75" Weight="180" Age="22.52" />
+  <Player Name="&quot;Carl Crawford&quot;" Team=" &quot;TB&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="219" Age="25.57" />
+  <Player Name="&quot;Rocco Baldelli&quot;" Team=" &quot;TB&quot;" Position=" &quot;Outfielder&quot;" Height="76" Weight="187" Age="25.43" />
+  <Player Name="&quot;Greg Norton&quot;" Team=" &quot;TB&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="200" Age="34.65" />
+  <Player Name="&quot;Elijah Dukes&quot;" Team=" &quot;TB&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="220" Age="22.68" />
+  <Player Name="&quot;Delmon Young&quot;" Team=" &quot;TB&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="205" Age="21.46" />
+  <Player Name="&quot;Jonny Gomes&quot;" Team=" &quot;TB&quot;" Position=" &quot;Designated Hitter&quot;" Height="73" Weight="205" Age="26.27" />
+  <Player Name="&quot;Edwin Jackson&quot;" Team=" &quot;TB&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="190" Age="23.47" />
+  <Player Name="&quot;Scott Kazmir&quot;" Team=" &quot;TB&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="170" Age="23.1" />
+  <Player Name="&quot;Casey Fossum&quot;" Team=" &quot;TB&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="160" Age="29.14" />
+  <Player Name="&quot;Jae Seo&quot;" Team=" &quot;TB&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="215" Age="29.77" />
+  <Player Name="&quot;J.P. Howell&quot;" Team=" &quot;TB&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="175" Age="23.85" />
+  <Player Name="&quot;Tim Corcoran&quot;" Team=" &quot;TB&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="205" Age="28.88" />
+  <Player Name="&quot;Jason Hammel&quot;" Team=" &quot;TB&quot;" Position=" &quot;Starting Pitcher&quot;" Height="78" Weight="200" Age="24.49" />
+  <Player Name="&quot;James Shields&quot;" Team=" &quot;TB&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="214" Age="25.19" />
+  <Player Name="&quot;Brian Stokes&quot;" Team=" &quot;TB&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="200" Age="27.48" />
+  <Player Name="&quot;Juan Salas&quot;" Team=" &quot;TB&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="190" Age="28.31" />
+  <Player Name="&quot;Jeff Ridgway&quot;" Team=" &quot;TB&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="180" Age="26.54" />
+  <Player Name="&quot;Ruddy Lugo&quot;" Team=" &quot;TB&quot;" Position=" &quot;Relief Pitcher&quot;" Height="70" Weight="205" Age="26.77" />
+  <Player Name="&quot;Jae-Kuk Ryu&quot;" Team=" &quot;TB&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="220" Age="23.75" />
+  <Player Name="&quot;Chad Orvella&quot;" Team=" &quot;TB&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="190" Age="26.41" />
+  <Player Name="&quot;Dan Miceli&quot;" Team=" &quot;TB&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="215" Age="36.47" />
+  <Player Name="&quot;Seth McClung&quot;" Team=" &quot;TB&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="235" Age="26.06" />
+  <Player Name="&quot;Jon Switzer&quot;" Team=" &quot;TB&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="191" Age="27.55" />
+  <Player Name="&quot;Shawn Camp&quot;" Team=" &quot;TB&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="200" Age="31.28" />
+  <Player Name="&quot;Scott Dohmann&quot;" Team=" &quot;TB&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="181" Age="29.04" />
+  <Player Name="&quot;Jason LaRue&quot;" Team=" &quot;KC&quot;" Position=" &quot;Catcher&quot;" Height="71" Weight="200" Age="32.95" />
+  <Player Name="&quot;John Buck&quot;" Team=" &quot;KC&quot;" Position=" &quot;Catcher&quot;" Height="75" Weight="210" Age="26.65" />
+  <Player Name="&quot;Ryan Shealy&quot;" Team=" &quot;KC&quot;" Position=" &quot;First Baseman&quot;" Height="77" Weight="240" Age="27.5" />
+  <Player Name="&quot;Ross Gload&quot;" Team=" &quot;KC&quot;" Position=" &quot;First Baseman&quot;" Height="72" Weight="185" Age="30.9" />
+  <Player Name="&quot;Esteban German&quot;" Team=" &quot;KC&quot;" Position=" &quot;Second Baseman&quot;" Height="69" Weight="165" Age="29.09" />
+  <Player Name="&quot;Mark Grudzielanek&quot;" Team=" &quot;KC&quot;" Position=" &quot;Second Baseman&quot;" Height="73" Weight="190" Age="36.67" />
+  <Player Name="&quot;Angel Sanchez&quot;" Team=" &quot;KC&quot;" Position=" &quot;Second Baseman&quot;" Height="74" Weight="185" Age="23.44" />
+  <Player Name="&quot;Angel Berroa&quot;" Team=" &quot;KC&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="175" Age="29.09" />
+  <Player Name="&quot;Andres Blanco&quot;" Team=" &quot;KC&quot;" Position=" &quot;Shortstop&quot;" Height="70" Weight="155" Age="22.89" />
+  <Player Name="&quot;Mark Teahen&quot;" Team=" &quot;KC&quot;" Position=" &quot;Third Baseman&quot;" Height="75" Weight="210" Age="25.48" />
+  <Player Name="&quot;Joey Gathright&quot;" Team=" &quot;KC&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="170" Age="25.84" />
+  <Player Name="&quot;David DeJesus&quot;" Team=" &quot;KC&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="175" Age="27.2" />
+  <Player Name="&quot;Shane Costa&quot;" Team=" &quot;KC&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="220" Age="25.22" />
+  <Player Name="&quot;Mitch Maier&quot;" Team=" &quot;KC&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="210" Age="24.67" />
+  <Player Name="&quot;Reggie Sanders&quot;" Team=" &quot;KC&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="205" Age="39.25" />
+  <Player Name="&quot;Emil Brown&quot;" Team=" &quot;KC&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="200" Age="32.17" />
+  <Player Name="&quot;Mike Sweeney&quot;" Team=" &quot;KC&quot;" Position=" &quot;Designated Hitter&quot;" Height="75" Weight="225" Age="33.61" />
+  <Player Name="&quot;John Bale&quot;" Team=" &quot;KC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="205" Age="32.77" />
+  <Player Name="&quot;Luke Hudson&quot;" Team=" &quot;KC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="195" Age="29.83" />
+  <Player Name="&quot;Scott Elarton&quot;" Team=" &quot;KC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="80" Weight="240" Age="31.02" />
+  <Player Name="&quot;Odalis Perez&quot;" Team=" &quot;KC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="150" Age="29.73" />
+  <Player Name="&quot;Gil Meche&quot;" Team=" &quot;KC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="200" Age="28.48" />
+  <Player Name="&quot;Neal Musser&quot;" Team=" &quot;KC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="215" Age="26.51" />
+  <Player Name="&quot;Brian Bannister&quot;" Team=" &quot;KC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="202" Age="26" />
+  <Player Name="&quot;Zack Greinke&quot;" Team=" &quot;KC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="200" Age="23.36" />
+  <Player Name="&quot;Jorge De La Rosa&quot;" Team=" &quot;KC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="190" Age="25.9" />
+  <Player Name="&quot;Todd Wellemeyer&quot;" Team=" &quot;KC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="205" Age="28.5" />
+  <Player Name="&quot;Jimmy Gobble&quot;" Team=" &quot;KC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="190" Age="25.62" />
+  <Player Name="&quot;Joel Peralta&quot;" Team=" &quot;KC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="160" Age="30.94" />
+  <Player Name="&quot;Ryan Braun&quot;" Team=" &quot;KC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="215" Age="26.59" />
+  <Player Name="&quot;Joakim Soria&quot;" Team=" &quot;KC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="185" Age="22.78" />
+  <Player Name="&quot;Ken Ray&quot;" Team=" &quot;KC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="200" Age="32.26" />
+  <Player Name="&quot;David Riske&quot;" Team=" &quot;KC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="190" Age="30.35" />
+  <Player Name="&quot;Octavio Dotel&quot;" Team=" &quot;KC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="210" Age="33.26" />
+  <Player Name="&quot;Joe Nelson&quot;" Team=" &quot;KC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="185" Age="32.35" />
+  <Player Name="&quot;Gerald Laird&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Catcher&quot;" Height="74" Weight="220" Age="27.3" />
+  <Player Name="&quot;Miguel Ojeda&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Catcher&quot;" Height="74" Weight="190" Age="32.08" />
+  <Player Name="&quot;Guillermo Quiroz&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Catcher&quot;" Height="73" Weight="202" Age="25.25" />
+  <Player Name="&quot;Chris Stewart&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Catcher&quot;" Height="76" Weight="205" Age="25.03" />
+  <Player Name="&quot;Mark Teixeira&quot;" Team=" &quot;TEX&quot;" Position=" &quot;First Baseman&quot;" Height="75" Weight="220" Age="26.89" />
+  <Player Name="&quot;Ian Kinsler&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Second Baseman&quot;" Height="72" Weight="175" Age="24.69" />
+  <Player Name="&quot;Joaquin Arias&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Shortstop&quot;" Height="73" Weight="160" Age="22.44" />
+  <Player Name="&quot;Michael Young&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Shortstop&quot;" Height="73" Weight="190" Age="30.36" />
+  <Player Name="&quot;Hank Blalock&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Third Baseman&quot;" Height="73" Weight="200" Age="26.27" />
+  <Player Name="&quot;Marlon Byrd&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="229" Age="29.5" />
+  <Player Name="&quot;Brad Wilkerson&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="206" Age="29.75" />
+  <Player Name="&quot;Sammy Sosa&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="220" Age="38.3" />
+  <Player Name="&quot;Kenny Lofton&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="180" Age="39.75" />
+  <Player Name="&quot;Frank Catalanotto&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="195" Age="32.84" />
+  <Player Name="&quot;Nelson Cruz&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="175" Age="26.66" />
+  <Player Name="&quot;Jason Botts&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Designated Hitter&quot;" Height="77" Weight="250" Age="26.6" />
+  <Player Name="&quot;Robinson Tejeda&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="188" Age="24.94" />
+  <Player Name="&quot;John Rheinecker&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="230" Age="27.76" />
+  <Player Name="&quot;Edinson Volquez&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="190" Age="23.66" />
+  <Player Name="&quot;A.J. Murray&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="200" Age="24.96" />
+  <Player Name="&quot;Brandon McCarthy&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Starting Pitcher&quot;" Height="79" Weight="190" Age="23.65" />
+  <Player Name="&quot;Vicente Padilla&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="219" Age="29.42" />
+  <Player Name="&quot;Kevin Millwood&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="235" Age="32.18" />
+  <Player Name="&quot;John Koronka&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="180" Age="26.66" />
+  <Player Name="&quot;Frank Francisco&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="180" Age="27.47" />
+  <Player Name="&quot;Francisco Cruceta&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="180" Age="25.66" />
+  <Player Name="&quot;Akinori Otsuka&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="200" Age="35.13" />
+  <Player Name="&quot;Eric Gagne&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="234" Age="31.15" />
+  <Player Name="&quot;Ron Mahay&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="185" Age="35.67" />
+  <Player Name="&quot;Joaquin Benoit&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="220" Age="29.6" />
+  <Player Name="&quot;Rick Bauer&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="223" Age="30.14" />
+  <Player Name="&quot;Josh Rupe&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="200" Age="24.53" />
+  <Player Name="&quot;Wes Littleton&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="210" Age="24.49" />
+  <Player Name="&quot;C.J. Wilson&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="200" Age="26.28" />
+  <Player Name="&quot;Scott Feldman&quot;" Team=" &quot;TEX&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="210" Age="24.06" />
+  <Player Name="&quot;Gregg Zaun&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Catcher&quot;" Height="70" Weight="190" Age="35.88" />
+  <Player Name="&quot;Jason Phillips&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Catcher&quot;" Height="73" Weight="177" Age="30.42" />
+  <Player Name="&quot;Lyle Overbay&quot;" Team=" &quot;TOR&quot;" Position=" &quot;First Baseman&quot;" Height="74" Weight="227" Age="30.09" />
+  <Player Name="&quot;Russ Adams&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Second Baseman&quot;" Height="73" Weight="180" Age="26.5" />
+  <Player Name="&quot;Aaron Hill&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Second Baseman&quot;" Height="71" Weight="195" Age="24.94" />
+  <Player Name="&quot;Jason Smith&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Second Baseman&quot;" Height="75" Weight="199" Age="29.6" />
+  <Player Name="&quot;John McDonald&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Shortstop&quot;" Height="71" Weight="175" Age="32.43" />
+  <Player Name="&quot;Royce Clayton&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="185" Age="37.16" />
+  <Player Name="&quot;Troy Glaus&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Third Baseman&quot;" Height="77" Weight="240" Age="30.57" />
+  <Player Name="&quot;John Hattig&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Third Baseman&quot;" Height="74" Weight="210" Age="27.01" />
+  <Player Name="&quot;Reed Johnson&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="180" Age="30.23" />
+  <Player Name="&quot;Alex Rios&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Outfielder&quot;" Height="77" Weight="194" Age="26.03" />
+  <Player Name="&quot;Vernon Wells&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="225" Age="28.23" />
+  <Player Name="&quot;Frank Thomas&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Designated Hitter&quot;" Height="77" Weight="275" Age="38.76" />
+  <Player Name="&quot;Adam Lind&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Designated Hitter&quot;" Height="74" Weight="195" Age="23.62" />
+  <Player Name="&quot;Shaun Marcum&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="180" Age="25.21" />
+  <Player Name="&quot;Casey Janssen&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="205" Age="25.45" />
+  <Player Name="&quot;Gustavo Chacin&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Starting Pitcher&quot;" Height="71" Weight="193" Age="26.24" />
+  <Player Name="&quot;A.J. Burnett&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="230" Age="30.15" />
+  <Player Name="&quot;Roy Halladay&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Starting Pitcher&quot;" Height="78" Weight="230" Age="29.8" />
+  <Player Name="&quot;John Thomson&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="220" Age="33.41" />
+  <Player Name="&quot;Tomo Ohka&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="200" Age="30.95" />
+  <Player Name="&quot;B.J. Ryan&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="249" Age="31.17" />
+  <Player Name="&quot;Scott Downs&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="190" Age="30.95" />
+  <Player Name="&quot;Brian Tallet&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Relief Pitcher&quot;" Height="79" Weight="208" Age="29.44" />
+  <Player Name="&quot;Matt Roney&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="245" Age="27.14" />
+  <Player Name="&quot;Tracy Thorpe&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="250" Age="26.21" />
+  <Player Name="&quot;Jean Machi&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="160" Age="24.08" />
+  <Player Name="&quot;Brandon League&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="192" Age="23.96" />
+  <Player Name="&quot;Dustin McGowan&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="220" Age="24.94" />
+  <Player Name="&quot;Jason Frasor&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Relief Pitcher&quot;" Height="70" Weight="170" Age="29.56" />
+  <Player Name="&quot;Francisco Rosario&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="197" Age="26.42" />
+  <Player Name="&quot;Davis Romero&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Relief Pitcher&quot;" Height="70" Weight="155" Age="23.92" />
+  <Player Name="&quot;Jeremy Accardo&quot;" Team=" &quot;TOR&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="190" Age="25.23" />
+  <Player Name="&quot;Mike Redmond&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Catcher&quot;" Height="71" Weight="200" Age="35.82" />
+  <Player Name="&quot;Joe Mauer&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Catcher&quot;" Height="76" Weight="220" Age="23.87" />
+  <Player Name="&quot;Chris Heintz&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Catcher&quot;" Height="73" Weight="210" Age="32.57" />
+  <Player Name="&quot;Justin Morneau&quot;" Team=" &quot;MIN&quot;" Position=" &quot;First Baseman&quot;" Height="76" Weight="228" Age="25.79" />
+  <Player Name="&quot;Luis Castillo&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Second Baseman&quot;" Height="71" Weight="190" Age="31.47" />
+  <Player Name="&quot;Alexi Casilla&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Second Baseman&quot;" Height="69" Weight="160" Age="22.61" />
+  <Player Name="&quot;Alejandro Machado&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Second Baseman&quot;" Height="72" Weight="184" Age="24.85" />
+  <Player Name="&quot;Jason Bartlett&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="180" Age="27.33" />
+  <Player Name="&quot;Luis Rodriguez&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Third Baseman&quot;" Height="69" Weight="180" Age="26.67" />
+  <Player Name="&quot;Jeff Cirillo&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Third Baseman&quot;" Height="73" Weight="200" Age="37.43" />
+  <Player Name="&quot;Nick Punto&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Third Baseman&quot;" Height="69" Weight="176" Age="29.31" />
+  <Player Name="&quot;Jason Tyner&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="160" Age="29.85" />
+  <Player Name="&quot;Michael Cuddyer&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="222" Age="27.93" />
+  <Player Name="&quot;Torii Hunter&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="211" Age="31.62" />
+  <Player Name="&quot;Lew Ford&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="195" Age="30.55" />
+  <Player Name="&quot;Jason Kubel&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="200" Age="24.77" />
+  <Player Name="&quot;Josh Rabe&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Designated Hitter&quot;" Height="74" Weight="210" Age="28.38" />
+  <Player Name="&quot;Rondell White&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Designated Hitter&quot;" Height="73" Weight="225" Age="35.02" />
+  <Player Name="&quot;Ramon Ortiz&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="175" Age="33.77" />
+  <Player Name="&quot;Johan Santana&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="206" Age="27.97" />
+  <Player Name="&quot;Carlos Silva&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="240" Age="27.85" />
+  <Player Name="&quot;Matt Garza&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="185" Age="23.26" />
+  <Player Name="&quot;Boof Bonser&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="260" Age="25.38" />
+  <Player Name="&quot;Francisco Liriano&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="185" Age="23.35" />
+  <Player Name="&quot;Scott Baker&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="221" Age="25.45" />
+  <Player Name="&quot;Pat Neshek&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="205" Age="26.49" />
+  <Player Name="&quot;Glen Perkins&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="200" Age="24" />
+  <Player Name="&quot;Julio DePaula&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="170" Age="24.16" />
+  <Player Name="&quot;Juan Rincon&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="201" Age="28.1" />
+  <Player Name="&quot;Jesse Crain&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="205" Age="25.65" />
+  <Player Name="&quot;Matt Guerrier&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="185" Age="28.58" />
+  <Player Name="&quot;Joe Nathan&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="205" Age="32.27" />
+  <Player Name="&quot;Dennys Reyes&quot;" Team=" &quot;MIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="245" Age="29.86" />
+  <Player Name="&quot;Brayan Pe?a&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Catcher&quot;" Height="71" Weight="220" Age="25.14" />
+  <Player Name="&quot;Brian McCann&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Catcher&quot;" Height="75" Weight="210" Age="23.03" />
+  <Player Name="&quot;Craig Wilson&quot;" Team=" &quot;ATL&quot;" Position=" &quot;First Baseman&quot;" Height="74" Weight="220" Age="30.25" />
+  <Player Name="&quot;Chris Woodward&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Second Baseman&quot;" Height="72" Weight="185" Age="30.67" />
+  <Player Name="&quot;Pete Orr&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Second Baseman&quot;" Height="73" Weight="175" Age="27.73" />
+  <Player Name="&quot;Martin Prado&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Second Baseman&quot;" Height="73" Weight="170" Age="23.34" />
+  <Player Name="&quot;Tony Pe?a&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Shortstop&quot;" Height="73" Weight="180" Age="25.94" />
+  <Player Name="&quot;Edgar Renteria&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Shortstop&quot;" Height="73" Weight="200" Age="31.56" />
+  <Player Name="&quot;Chipper Jones&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Third Baseman&quot;" Height="76" Weight="210" Age="34.85" />
+  <Player Name="&quot;Willy Aybar&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Third Baseman&quot;" Height="72" Weight="175" Age="23.98" />
+  <Player Name="&quot;Jeff Francoeur&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Outfielder&quot;" Height="76" Weight="220" Age="23.14" />
+  <Player Name="&quot;Matt Diaz&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="206" Age="28.99" />
+  <Player Name="&quot;Kelly Johnson&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="180" Age="25.02" />
+  <Player Name="&quot;Andruw Jones&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="210" Age="29.85" />
+  <Player Name="&quot;Ryan Langerhans&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="195" Age="27.03" />
+  <Player Name="&quot;Scott Thorman&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="200" Age="25.15" />
+  <Player Name="&quot;T.J. Bohn&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Outfielder&quot;" Height="77" Weight="200" Age="27.12" />
+  <Player Name="&quot;Tim Hudson&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="164" Age="31.63" />
+  <Player Name="&quot;Jonathan Johnson&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="180" Age="32.62" />
+  <Player Name="&quot;John Smoltz&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="220" Age="39.79" />
+  <Player Name="&quot;Mike Hampton&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="70" Weight="195" Age="34.47" />
+  <Player Name="&quot;Kyle Davies&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="205" Age="23.47" />
+  <Player Name="&quot;Chuck James&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="170" Age="25.31" />
+  <Player Name="&quot;Phil Stockman&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="80" Weight="240" Age="27.1" />
+  <Player Name="&quot;Macay McBride&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="210" Age="24.35" />
+  <Player Name="&quot;Joey Devine&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="195" Age="23.45" />
+  <Player Name="&quot;Peter Moylan&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="200" Age="28.24" />
+  <Player Name="&quot;Mike Gonzalez&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="205" Age="28.77" />
+  <Player Name="&quot;Lance Cormier&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="192" Age="26.53" />
+  <Player Name="&quot;Blaine Boyer&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="190" Age="25.64" />
+  <Player Name="&quot;Manny Acosta&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="170" Age="25.83" />
+  <Player Name="&quot;Bob Wickman&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="240" Age="38.06" />
+  <Player Name="&quot;Tanyon Sturtze&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="200" Age="36.38" />
+  <Player Name="&quot;Oscar Villarreal&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="205" Age="25.27" />
+  <Player Name="&quot;Rafael Soriano&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="175" Age="27.2" />
+  <Player Name="&quot;Chad Paronto&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="250" Age="31.59" />
+  <Player Name="&quot;Tyler Yates&quot;" Team=" &quot;ATL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="220" Age="29.56" />
+  <Player Name="&quot;Henry Blanco&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Catcher&quot;" Height="71" Weight="224" Age="35.5" />
+  <Player Name="&quot;Michael Barrett&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Catcher&quot;" Height="75" Weight="210" Age="30.35" />
+  <Player Name="&quot;Geovany Soto&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Catcher&quot;" Height="73" Weight="195" Age="24.11" />
+  <Player Name="&quot;Scott Moore&quot;" Team=" &quot;CHC&quot;" Position=" &quot;First Baseman&quot;" Height="74" Weight="180" Age="23.29" />
+  <Player Name="&quot;Derrek Lee&quot;" Team=" &quot;CHC&quot;" Position=" &quot;First Baseman&quot;" Height="77" Weight="245" Age="31.48" />
+  <Player Name="&quot;Ryan Theriot&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Second Baseman&quot;" Height="71" Weight="175" Age="27.23" />
+  <Player Name="&quot;Ronny Cedeno&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="180" Age="24.07" />
+  <Player Name="&quot;Aramis Ramirez&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Third Baseman&quot;" Height="73" Weight="215" Age="28.68" />
+  <Player Name="&quot;Cesar Izturis&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Third Baseman&quot;" Height="69" Weight="175" Age="27.05" />
+  <Player Name="&quot;Alfonso Soriano&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="180" Age="31.15" />
+  <Player Name="&quot;Jacque Jones&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="195" Age="31.85" />
+  <Player Name="&quot;Daryle Ward&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="230" Age="31.68" />
+  <Player Name="&quot;Cliff Floyd&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Outfielder&quot;" Height="76" Weight="230" Age="34.23" />
+  <Player Name="&quot;Mark DeRosa&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="205" Age="32.01" />
+  <Player Name="&quot;Matt Murton&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="215" Age="25.41" />
+  <Player Name="&quot;Buck Coats&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="195" Age="24.73" />
+  <Player Name="&quot;Angel Pagan&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="180" Age="25.66" />
+  <Player Name="&quot;Sean Marshall&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="79" Weight="205" Age="24.5" />
+  <Player Name="&quot;Carlos Marmol&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="180" Age="24.38" />
+  <Player Name="&quot;Ryan O'Malley&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="190" Age="26.89" />
+  <Player Name="&quot;Juan Mateo&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="180" Age="24.2" />
+  <Player Name="&quot;Rich Hill&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="190" Age="26.97" />
+  <Player Name="&quot;Angel Guzman&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="190" Age="25.21" />
+  <Player Name="&quot;Wade Miller&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="220" Age="30.46" />
+  <Player Name="&quot;Jason Marquis&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="210" Age="28.53" />
+  <Player Name="&quot;Carlos Zambrano&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="255" Age="25.75" />
+  <Player Name="&quot;Ted Lilly&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="190" Age="31.15" />
+  <Player Name="&quot;Mark Prior&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="230" Age="26.48" />
+  <Player Name="&quot;Neal Cotts&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="200" Age="26.93" />
+  <Player Name="&quot;Will Ohman&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="205" Age="29.55" />
+  <Player Name="&quot;Scott Eyre&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="210" Age="34.75" />
+  <Player Name="&quot;Kerry Wood&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="225" Age="29.71" />
+  <Player Name="&quot;Ryan Dempster&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="215" Age="29.83" />
+  <Player Name="&quot;Bob Howry&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="220" Age="33.57" />
+  <Player Name="&quot;Mike Wuertz&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="205" Age="28.21" />
+  <Player Name="&quot;Roberto Novoa&quot;" Team=" &quot;CHC&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="200" Age="27.54" />
+  <Player Name="&quot;Chris Snyder&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Catcher&quot;" Height="75" Weight="220" Age="26.05" />
+  <Player Name="&quot;Miguel Montero&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Catcher&quot;" Height="71" Weight="197" Age="23.64" />
+  <Player Name="&quot;Conor Jackson&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;First Baseman&quot;" Height="74" Weight="225" Age="24.82" />
+  <Player Name="&quot;Robby Hammock&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;First Baseman&quot;" Height="70" Weight="187" Age="29.8" />
+  <Player Name="&quot;Tony Clark&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;First Baseman&quot;" Height="79" Weight="245" Age="34.71" />
+  <Player Name="&quot;Orlando Hudson&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Second Baseman&quot;" Height="72" Weight="185" Age="29.22" />
+  <Player Name="&quot;Stephen Drew&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="185" Age="23.96" />
+  <Player Name="&quot;Alberto Callaspo&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Shortstop&quot;" Height="70" Weight="175" Age="23.87" />
+  <Player Name="&quot;Chad Tracy&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Third Baseman&quot;" Height="74" Weight="200" Age="26.77" />
+  <Player Name="&quot;Chris Young&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="180" Age="23.49" />
+  <Player Name="&quot;Scott Hairston&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="188" Age="26.77" />
+  <Player Name="&quot;Carlos Quentin&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="225" Age="24.51" />
+  <Player Name="&quot;Jeff DaVanon&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="200" Age="33.23" />
+  <Player Name="&quot;Eric Byrnes&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="210" Age="31.04" />
+  <Player Name="&quot;Livan Hernandez&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="245" Age="32.02" />
+  <Player Name="&quot;Doug Davis&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="213" Age="31.44" />
+  <Player Name="&quot;Randy Johnson&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Starting Pitcher&quot;" Height="82" Weight="231" Age="43.47" />
+  <Player Name="&quot;Juan Cruz&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="165" Age="28.38" />
+  <Player Name="&quot;Brandon Webb&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="228" Age="27.81" />
+  <Player Name="&quot;Enrique Gonzalez&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Starting Pitcher&quot;" Height="70" Weight="210" Age="24.57" />
+  <Player Name="&quot;Dana Eveland&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="250" Age="23.34" />
+  <Player Name="&quot;Brandon Medders&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="191" Age="27.09" />
+  <Player Name="&quot;Tony Pe?a&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="190" Age="25.14" />
+  <Player Name="&quot;Doug Slaten&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="200" Age="27.07" />
+  <Player Name="&quot;Edgar Gonzalez&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="215" Age="24.02" />
+  <Player Name="&quot;Jose Valverde&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="254" Age="27.6" />
+  <Player Name="&quot;Jorge Julio&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="232" Age="27.99" />
+  <Player Name="&quot;Brandon Lyon&quot;" Team=" &quot;ARZ&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="180" Age="27.56" />
+  <Player Name="&quot;Miguel Olivo&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Catcher&quot;" Height="72" Weight="215" Age="28.63" />
+  <Player Name="&quot;Matt Treanor&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Catcher&quot;" Height="74" Weight="220" Age="30.99" />
+  <Player Name="&quot;Mike Jacobs&quot;" Team=" &quot;FLA&quot;" Position=" &quot;First Baseman&quot;" Height="74" Weight="180" Age="26.33" />
+  <Player Name="&quot;Dan Uggla&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Second Baseman&quot;" Height="71" Weight="200" Age="26.97" />
+  <Player Name="&quot;Robert Andino&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="170" Age="22.85" />
+  <Player Name="&quot;Hanley Ramirez&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Shortstop&quot;" Height="75" Weight="195" Age="23.19" />
+  <Player Name="&quot;Miguel Cabrera&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Third Baseman&quot;" Height="74" Weight="210" Age="23.87" />
+  <Player Name="&quot;Aaron Boone&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Third Baseman&quot;" Height="74" Weight="200" Age="33.98" />
+  <Player Name="&quot;Joe Borchard&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Outfielder&quot;" Height="77" Weight="220" Age="28.26" />
+  <Player Name="&quot;Alfredo Amezaga&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="165" Age="29.12" />
+  <Player Name="&quot;Cody Ross&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="180" Age="26.18" />
+  <Player Name="&quot;Josh Willingham&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="200" Age="28.03" />
+  <Player Name="&quot;Jeremy Hermida&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Outfielder&quot;" Height="76" Weight="200" Age="23.08" />
+  <Player Name="&quot;Eric Reed&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="170" Age="26.24" />
+  <Player Name="&quot;Reggi Abercrombie&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="224" Age="26.63" />
+  <Player Name="&quot;Ricky Nolasco&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="220" Age="24.21" />
+  <Player Name="&quot;Anibal Sanchez&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="180" Age="23.01" />
+  <Player Name="&quot;Scott Olsen&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="198" Age="23.13" />
+  <Player Name="&quot;Josh Johnson&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="79" Weight="240" Age="23.08" />
+  <Player Name="&quot;Dontrelle Willis&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="239" Age="25.13" />
+  <Player Name="&quot;Logan Kensing&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="185" Age="24.66" />
+  <Player Name="&quot;Sergio Mitre&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="210" Age="26.03" />
+  <Player Name="&quot;Kevin Gregg&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="220" Age="28.7" />
+  <Player Name="&quot;Travis Bowyer&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="200" Age="25.57" />
+  <Player Name="&quot;Renyel Pinto&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="195" Age="24.65" />
+  <Player Name="&quot;Randy Messenger&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="220" Age="25.55" />
+  <Player Name="&quot;Yusmeiro Petit&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="230" Age="22.27" />
+  <Player Name="&quot;Carlos Martinez&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="170" Age="24.76" />
+  <Player Name="&quot;Taylor Tankersley&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="220" Age="23.98" />
+  <Player Name="&quot;Henry Owens&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="230" Age="27.85" />
+  <Player Name="&quot;Jose Garcia&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="165" Age="22.14" />
+  <Player Name="&quot;Matt Lindstrom&quot;" Team=" &quot;FLA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="205" Age="27.05" />
+  <Player Name="&quot;Javier Valentin&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Catcher&quot;" Height="70" Weight="192" Age="31.45" />
+  <Player Name="&quot;Chad Moeller&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Catcher&quot;" Height="75" Weight="210" Age="32.03" />
+  <Player Name="&quot;David Ross&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Catcher&quot;" Height="74" Weight="205" Age="29.95" />
+  <Player Name="&quot;Joey Votto&quot;" Team=" &quot;CIN&quot;" Position=" &quot;First Baseman&quot;" Height="75" Weight="200" Age="23.47" />
+  <Player Name="&quot;Scott Hatteberg&quot;" Team=" &quot;CIN&quot;" Position=" &quot;First Baseman&quot;" Height="73" Weight="210" Age="37.21" />
+  <Player Name="&quot;Brandon Phillips&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Second Baseman&quot;" Height="71" Weight="185" Age="25.67" />
+  <Player Name="&quot;Juan Castro&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Shortstop&quot;" Height="71" Weight="195" Age="34.69" />
+  <Player Name="&quot;Alex Gonzalez&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="202" Age="30.04" />
+  <Player Name="&quot;Mark Bellhorn&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Third Baseman&quot;" Height="73" Weight="205" Age="32.52" />
+  <Player Name="&quot;Edwin Encarnacion&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Third Baseman&quot;" Height="73" Weight="195" Age="24.15" />
+  <Player Name="&quot;Jeff Keppinger&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Third Baseman&quot;" Height="72" Weight="180" Age="26.86" />
+  <Player Name="&quot;Norris Hopper&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Outfielder&quot;" Height="69" Weight="200" Age="27.94" />
+  <Player Name="&quot;Chris Denorfia&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="185" Age="26.63" />
+  <Player Name="&quot;Adam Dunn&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Outfielder&quot;" Height="78" Weight="240" Age="27.31" />
+  <Player Name="&quot;Bubba Crosby&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="185" Age="30.55" />
+  <Player Name="&quot;Jeff Conine&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="220" Age="40.68" />
+  <Player Name="&quot;Ken Griffey Jr.&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="205" Age="37.27" />
+  <Player Name="&quot;Josh Hamilton&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Outfielder&quot;" Height="76" Weight="205" Age="25.78" />
+  <Player Name="&quot;Ryan Freel&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="180" Age="30.98" />
+  <Player Name="&quot;Kyle Lohse&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="201" Age="28.41" />
+  <Player Name="&quot;Bronson Arroyo&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="190" Age="30.01" />
+  <Player Name="&quot;Eric Milton&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="208" Age="31.57" />
+  <Player Name="&quot;Aaron Harang&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Starting Pitcher&quot;" Height="79" Weight="240" Age="28.81" />
+  <Player Name="&quot;Kirk Saarloos&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="200" Age="27.77" />
+  <Player Name="&quot;Elizardo Ramirez&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="180" Age="24.09" />
+  <Player Name="&quot;Todd Coffey&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="230" Age="26.47" />
+  <Player Name="&quot;Brian Shackelford&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="195" Age="30.5" />
+  <Player Name="&quot;Bill Bray&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="215" Age="23.74" />
+  <Player Name="&quot;Bobby Livingston&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="190" Age="24.49" />
+  <Player Name="&quot;Matt Belisle&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="195" Age="26.73" />
+  <Player Name="&quot;Gary Majewski&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="215" Age="27.01" />
+  <Player Name="&quot;Mike Stanton&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="215" Age="39.75" />
+  <Player Name="&quot;Brad Salmon&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="220" Age="27.16" />
+  <Player Name="&quot;Jared Burton&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="220" Age="25.74" />
+  <Player Name="&quot;David Weathers&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="230" Age="37.43" />
+  <Player Name="&quot;Rheal Cormier&quot;" Team=" &quot;CIN&quot;" Position=" &quot;Relief Pitcher&quot;" Height="70" Weight="195" Age="39.85" />
+  <Player Name="&quot;Yorvit Torrealba&quot;" Team=" &quot;COL&quot;" Position=" &quot;Catcher&quot;" Height="71" Weight="190" Age="28.62" />
+  <Player Name="&quot;Chris Iannetta&quot;" Team=" &quot;COL&quot;" Position=" &quot;Catcher&quot;" Height="71" Weight="195" Age="23.9" />
+  <Player Name="&quot;Alvin Colina&quot;" Team=" &quot;COL&quot;" Position=" &quot;Catcher&quot;" Height="75" Weight="209" Age="25.18" />
+  <Player Name="&quot;Todd Helton&quot;" Team=" &quot;COL&quot;" Position=" &quot;First Baseman&quot;" Height="74" Weight="204" Age="33.53" />
+  <Player Name="&quot;Jamey Carroll&quot;" Team=" &quot;COL&quot;" Position=" &quot;Second Baseman&quot;" Height="69" Weight="170" Age="33.03" />
+  <Player Name="&quot;Kaz Matsui&quot;" Team=" &quot;COL&quot;" Position=" &quot;Second Baseman&quot;" Height="70" Weight="185" Age="31.35" />
+  <Player Name="&quot;Troy Tulowitzki&quot;" Team=" &quot;COL&quot;" Position=" &quot;Shortstop&quot;" Height="75" Weight="205" Age="22.39" />
+  <Player Name="&quot;Clint Barmes&quot;" Team=" &quot;COL&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="175" Age="27.99" />
+  <Player Name="&quot;Garrett Atkins&quot;" Team=" &quot;COL&quot;" Position=" &quot;Third Baseman&quot;" Height="75" Weight="210" Age="27.22" />
+  <Player Name="&quot;Ryan Spilborghs&quot;" Team=" &quot;COL&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="190" Age="27.49" />
+  <Player Name="&quot;Cory Sullivan&quot;" Team=" &quot;COL&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="180" Age="27.53" />
+  <Player Name="&quot;Jeff Salazar&quot;" Team=" &quot;COL&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="180" Age="26.26" />
+  <Player Name="&quot;Willy Taveras&quot;" Team=" &quot;COL&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="160" Age="25.18" />
+  <Player Name="&quot;Matt Holliday&quot;" Team=" &quot;COL&quot;" Position=" &quot;Outfielder&quot;" Height="76" Weight="235" Age="27.12" />
+  <Player Name="&quot;Brad Hawpe&quot;" Team=" &quot;COL&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="200" Age="27.69" />
+  <Player Name="&quot;Jeff Baker&quot;" Team=" &quot;COL&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="210" Age="25.69" />
+  <Player Name="&quot;Javy Lopez&quot;" Team=" &quot;COL&quot;" Position=" &quot;Designated Hitter&quot;" Height="75" Weight="224" Age="36.32" />
+  <Player Name="&quot;Byung-Hyun Kim&quot;" Team=" &quot;COL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="69" Weight="180" Age="28.11" />
+  <Player Name="&quot;Rodrigo Lopez&quot;" Team=" &quot;COL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="190" Age="31.21" />
+  <Player Name="&quot;Brian Lawrence&quot;" Team=" &quot;COL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="197" Age="30.8" />
+  <Player Name="&quot;Josh Fogg&quot;" Team=" &quot;COL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="203" Age="30.21" />
+  <Player Name="&quot;Aaron Cook&quot;" Team=" &quot;COL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="205" Age="28.06" />
+  <Player Name="&quot;Denny Bautista&quot;" Team=" &quot;COL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="170" Age="26.52" />
+  <Player Name="&quot;Ubaldo Jimenez&quot;" Team=" &quot;COL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="200" Age="23.1" />
+  <Player Name="&quot;Jason Hirsh&quot;" Team=" &quot;COL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="80" Weight="250" Age="25.02" />
+  <Player Name="&quot;Jeff Francis&quot;" Team=" &quot;COL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="200" Age="26.14" />
+  <Player Name="&quot;Taylor Buchholz&quot;" Team=" &quot;COL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="220" Age="25.38" />
+  <Player Name="&quot;Ryan Speier&quot;" Team=" &quot;COL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="79" Weight="200" Age="27.6" />
+  <Player Name="&quot;Ramon Ramirez&quot;" Team=" &quot;COL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="190" Age="25.5" />
+  <Player Name="&quot;Manny Corpas&quot;" Team=" &quot;COL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="170" Age="24.24" />
+  <Player Name="&quot;Juan Morillo&quot;" Team=" &quot;COL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="190" Age="23.32" />
+  <Player Name="&quot;Brian Fuentes&quot;" Team=" &quot;COL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="220" Age="31.56" />
+  <Player Name="&quot;LaTroy Hawkins&quot;" Team=" &quot;COL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="215" Age="34.19" />
+  <Player Name="&quot;Tom Martin&quot;" Team=" &quot;COL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="206" Age="36.78" />
+  <Player Name="&quot;Jeremy Affeldt&quot;" Team=" &quot;COL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="215" Age="27.73" />
+  <Player Name="&quot;Paul Lo Duca&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Catcher&quot;" Height="70" Weight="185" Age="34.88" />
+  <Player Name="&quot;Ramon Castro&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Catcher&quot;" Height="75" Weight="235" Age="31" />
+  <Player Name="&quot;Julio Franco&quot;" Team=" &quot;NYM&quot;" Position=" &quot;First Baseman&quot;" Height="73" Weight="188" Age="48.52" />
+  <Player Name="&quot;Carlos Delgado&quot;" Team=" &quot;NYM&quot;" Position=" &quot;First Baseman&quot;" Height="75" Weight="230" Age="34.68" />
+  <Player Name="&quot;Jose Valentin&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Second Baseman&quot;" Height="70" Weight="195" Age="37.38" />
+  <Player Name="&quot;Anderson Hernandez&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Second Baseman&quot;" Height="69" Weight="168" Age="24.33" />
+  <Player Name="&quot;Damion Easley&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Shortstop&quot;" Height="71" Weight="190" Age="37.3" />
+  <Player Name="&quot;Jose Reyes&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="160" Age="23.72" />
+  <Player Name="&quot;David Wright&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Third Baseman&quot;" Height="72" Weight="200" Age="24.19" />
+  <Player Name="&quot;Ben Johnson&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="200" Age="25.7" />
+  <Player Name="&quot;Endy Chavez&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="189" Age="29.06" />
+  <Player Name="&quot;David Newhan&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="180" Age="33.48" />
+  <Player Name="&quot;Carlos Beltran&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="190" Age="29.85" />
+  <Player Name="&quot;Shawn Green&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Outfielder&quot;" Height="76" Weight="200" Age="34.3" />
+  <Player Name="&quot;Moises Alou&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="220" Age="40.66" />
+  <Player Name="&quot;Lastings Milledge&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="187" Age="21.9" />
+  <Player Name="&quot;Alay Soler&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="240" Age="27.39" />
+  <Player Name="&quot;Mike Pelfrey&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Starting Pitcher&quot;" Height="79" Weight="190" Age="23.13" />
+  <Player Name="&quot;Pedro Martinez&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Starting Pitcher&quot;" Height="71" Weight="180" Age="35.35" />
+  <Player Name="&quot;Tom Glavine&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="185" Age="40.93" />
+  <Player Name="&quot;Chan Ho Park&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="210" Age="33.67" />
+  <Player Name="&quot;Orlando Hernandez&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="220" Age="37.39" />
+  <Player Name="&quot;Dave Williams&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="219" Age="27.97" />
+  <Player Name="&quot;Oliver Perez&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="190" Age="25.54" />
+  <Player Name="&quot;John Maine&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="193" Age="25.81" />
+  <Player Name="&quot;Marcos Carvajal&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="175" Age="22.53" />
+  <Player Name="&quot;Ambiorix Burgos&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="180" Age="22.86" />
+  <Player Name="&quot;Jason Vargas&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="215" Age="24.07" />
+  <Player Name="&quot;Jon Adkins&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="210" Age="29.5" />
+  <Player Name="&quot;Juan Padilla&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="200" Age="30.03" />
+  <Player Name="&quot;Duaner Sanchez&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="190" Age="27.38" />
+  <Player Name="&quot;Pedro Feliciano&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Relief Pitcher&quot;" Height="70" Weight="185" Age="30.51" />
+  <Player Name="&quot;Aaron Heilman&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="220" Age="28.3" />
+  <Player Name="&quot;Jorge Sosa&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="170" Age="29.84" />
+  <Player Name="&quot;Scott Schoeneweis&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="195" Age="33.41" />
+  <Player Name="&quot;Guillermo Mota&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="205" Age="33.6" />
+  <Player Name="&quot;Billy Wagner&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="195" Age="35.6" />
+  <Player Name="&quot;Philip Humber&quot;" Team=" &quot;NYM&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="210" Age="24.19" />
+  <Player Name="&quot;Brad Ausmus&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Catcher&quot;" Height="71" Weight="190" Age="37.88" />
+  <Player Name="&quot;Humberto Quintero&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Catcher&quot;" Height="73" Weight="190" Age="27.56" />
+  <Player Name="&quot;Hector Gimenez&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Catcher&quot;" Height="70" Weight="180" Age="24.42" />
+  <Player Name="&quot;Lance Berkman&quot;" Team=" &quot;HOU&quot;" Position=" &quot;First Baseman&quot;" Height="73" Weight="220" Age="31.05" />
+  <Player Name="&quot;Mike Lamb&quot;" Team=" &quot;HOU&quot;" Position=" &quot;First Baseman&quot;" Height="73" Weight="190" Age="31.56" />
+  <Player Name="&quot;Mark Loretta&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Second Baseman&quot;" Height="72" Weight="186" Age="35.55" />
+  <Player Name="&quot;Craig Biggio&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Second Baseman&quot;" Height="71" Weight="185" Age="41.21" />
+  <Player Name="&quot;Brooks Conrad&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Second Baseman&quot;" Height="71" Weight="190" Age="27.12" />
+  <Player Name="&quot;Chris Burke&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Second Baseman&quot;" Height="71" Weight="180" Age="26.97" />
+  <Player Name="&quot;Eric Bruntlett&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Second Baseman&quot;" Height="72" Weight="190" Age="28.92" />
+  <Player Name="&quot;Adam Everett&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="170" Age="30.06" />
+  <Player Name="&quot;Morgan Ensberg&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Third Baseman&quot;" Height="74" Weight="210" Age="31.51" />
+  <Player Name="&quot;Carlos Lee&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="240" Age="30.69" />
+  <Player Name="&quot;Jason Lane&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="220" Age="30.19" />
+  <Player Name="&quot;Orlando Palmeiro&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="180" Age="38.11" />
+  <Player Name="&quot;Luke Scott&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="210" Age="28.68" />
+  <Player Name="&quot;Charlton Jimerson&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="210" Age="27.44" />
+  <Player Name="&quot;Fernando Nieve&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="195" Age="24.63" />
+  <Player Name="&quot;Wandy Rodriguez&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Starting Pitcher&quot;" Height="71" Weight="160" Age="28.11" />
+  <Player Name="&quot;Brandon Backe&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="180" Age="28.9" />
+  <Player Name="&quot;Matt Albers&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="205" Age="24.11" />
+  <Player Name="&quot;Woody Williams&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="200" Age="40.53" />
+  <Player Name="&quot;Roy Oswalt&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="185" Age="29.5" />
+  <Player Name="&quot;Jason Jennings&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="245" Age="28.62" />
+  <Player Name="&quot;Miguel Asencio&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="190" Age="26.42" />
+  <Player Name="&quot;Brad Lidge&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="210" Age="30.18" />
+  <Player Name="&quot;Trever Miller&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="200" Age="33.75" />
+  <Player Name="&quot;David Borkowski&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="200" Age="30.06" />
+  <Player Name="&quot;Dan Wheeler&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="222" Age="29.22" />
+  <Player Name="&quot;Paul Estrada&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="215" Age="24.47" />
+  <Player Name="&quot;Lincoln Holdzkom&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="240" Age="24.94" />
+  <Player Name="&quot;Chris Sampson&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="170" Age="28.77" />
+  <Player Name="&quot;Chad Qualls&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="220" Age="28.54" />
+  <Player Name="&quot;Ezequiel Astacio&quot;" Team=" &quot;HOU&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="156" Age="27.32" />
+  <Player Name="&quot;Mike Lieberthal&quot;" Team=" &quot;LA&quot;" Position=" &quot;Catcher&quot;" Height="72" Weight="190" Age="35.12" />
+  <Player Name="&quot;Russell Martin&quot;" Team=" &quot;LA&quot;" Position=" &quot;Catcher&quot;" Height="71" Weight="202" Age="24.04" />
+  <Player Name="&quot;Olmedo Saenz&quot;" Team=" &quot;LA&quot;" Position=" &quot;First Baseman&quot;" Height="71" Weight="221" Age="36.39" />
+  <Player Name="&quot;James Loney&quot;" Team=" &quot;LA&quot;" Position=" &quot;First Baseman&quot;" Height="75" Weight="200" Age="22.81" />
+  <Player Name="&quot;Nomar Garciaparra&quot;" Team=" &quot;LA&quot;" Position=" &quot;First Baseman&quot;" Height="72" Weight="190" Age="33.6" />
+  <Player Name="&quot;Jeff Kent&quot;" Team=" &quot;LA&quot;" Position=" &quot;Second Baseman&quot;" Height="73" Weight="210" Age="38.98" />
+  <Player Name="&quot;Ramon Martinez&quot;" Team=" &quot;LA&quot;" Position=" &quot;Second Baseman&quot;" Height="73" Weight="190" Age="34.39" />
+  <Player Name="&quot;Marlon Anderson&quot;" Team=" &quot;LA&quot;" Position=" &quot;Second Baseman&quot;" Height="71" Weight="200" Age="33.15" />
+  <Player Name="&quot;Rafael Furcal&quot;" Team=" &quot;LA&quot;" Position=" &quot;Shortstop&quot;" Height="70" Weight="165" Age="29.35" />
+  <Player Name="&quot;Wilson Betemit&quot;" Team=" &quot;LA&quot;" Position=" &quot;Third Baseman&quot;" Height="75" Weight="190" Age="26.59" />
+  <Player Name="&quot;Andy LaRoche&quot;" Team=" &quot;LA&quot;" Position=" &quot;Third Baseman&quot;" Height="71" Weight="185" Age="23.46" />
+  <Player Name="&quot;Matt Kemp&quot;" Team=" &quot;LA&quot;" Position=" &quot;Outfielder&quot;" Height="76" Weight="230" Age="22.43" />
+  <Player Name="&quot;Andre Ethier&quot;" Team=" &quot;LA&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="208" Age="24.89" />
+  <Player Name="&quot;Delwyn Young&quot;" Team=" &quot;LA&quot;" Position=" &quot;Outfielder&quot;" Height="68" Weight="209" Age="24.67" />
+  <Player Name="&quot;Jason Repko&quot;" Team=" &quot;LA&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="175" Age="26.17" />
+  <Player Name="&quot;Juan Pierre&quot;" Team=" &quot;LA&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="180" Age="29.54" />
+  <Player Name="&quot;Luis Gonzalez&quot;" Team=" &quot;LA&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="200" Age="39.49" />
+  <Player Name="&quot;Jason Schmidt&quot;" Team=" &quot;LA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="205" Age="34.08" />
+  <Player Name="&quot;Randy Wolf&quot;" Team=" &quot;LA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="200" Age="30.52" />
+  <Player Name="&quot;Brad Penny&quot;" Team=" &quot;LA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="250" Age="28.77" />
+  <Player Name="&quot;Derek Lowe&quot;" Team=" &quot;LA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="78" Weight="210" Age="33.75" />
+  <Player Name="&quot;Mark Hendrickson&quot;" Team=" &quot;LA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="81" Weight="230" Age="32.69" />
+  <Player Name="&quot;Chad Billingsley&quot;" Team=" &quot;LA&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="244" Age="22.59" />
+  <Player Name="&quot;Takashi Saito&quot;" Team=" &quot;LA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="202" Age="37.04" />
+  <Player Name="&quot;Jonathan Broxton&quot;" Team=" &quot;LA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="240" Age="22.7" />
+  <Player Name="&quot;Hong-Chih Kuo&quot;" Team=" &quot;LA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="200" Age="25.6" />
+  <Player Name="&quot;Eric Stults&quot;" Team=" &quot;LA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="215" Age="27.23" />
+  <Player Name="&quot;Chin-Hui Tsao&quot;" Team=" &quot;LA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="177" Age="25.74" />
+  <Player Name="&quot;Tim Hamulack&quot;" Team=" &quot;LA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="210" Age="30.29" />
+  <Player Name="&quot;Yhency Brazoban&quot;" Team=" &quot;LA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="170" Age="26.72" />
+  <Player Name="&quot;Brett Tomko&quot;" Team=" &quot;LA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="215" Age="33.9" />
+  <Player Name="&quot;Joe Beimel&quot;" Team=" &quot;LA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="217" Age="29.86" />
+  <Player Name="&quot;Elmer Dessens&quot;" Team=" &quot;LA&quot;" Position=" &quot;Relief Pitcher&quot;" Height="70" Weight="198" Age="36.13" />
+  <Player Name="&quot;Ryan Budde&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Catcher&quot;" Height="71" Weight="200" Age="27.54" />
+  <Player Name="&quot;Rod Barajas&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Catcher&quot;" Height="74" Weight="220" Age="31.49" />
+  <Player Name="&quot;Carlos Ruiz&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Catcher&quot;" Height="72" Weight="170" Age="28.1" />
+  <Player Name="&quot;Chris Coste&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Catcher&quot;" Height="73" Weight="200" Age="34.07" />
+  <Player Name="&quot;Ryan Howard&quot;" Team=" &quot;PHI&quot;" Position=" &quot;First Baseman&quot;" Height="76" Weight="230" Age="27.28" />
+  <Player Name="&quot;Wes Helms&quot;" Team=" &quot;PHI&quot;" Position=" &quot;First Baseman&quot;" Height="76" Weight="231" Age="30.8" />
+  <Player Name="&quot;Chase Utley&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Second Baseman&quot;" Height="73" Weight="183" Age="28.2" />
+  <Player Name="&quot;Danny Sandoval&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Second Baseman&quot;" Height="71" Weight="192" Age="27.9" />
+  <Player Name="&quot;Jimmy Rollins&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Shortstop&quot;" Height="68" Weight="167" Age="28.26" />
+  <Player Name="&quot;Abraham Nu?ez&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Third Baseman&quot;" Height="71" Weight="190" Age="30.96" />
+  <Player Name="&quot;Michael Bourn&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="180" Age="24.18" />
+  <Player Name="&quot;Chris Roberson&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="180" Age="27.52" />
+  <Player Name="&quot;Jayson Werth&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Outfielder&quot;" Height="77" Weight="215" Age="27.78" />
+  <Player Name="&quot;Shane Victorino&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Outfielder&quot;" Height="69" Weight="160" Age="26.25" />
+  <Player Name="&quot;Aaron Rowand&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="205" Age="29.5" />
+  <Player Name="&quot;Pat Burrell&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Outfielder&quot;" Height="76" Weight="223" Age="30.39" />
+  <Player Name="&quot;Greg Dobbs&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Designated Hitter&quot;" Height="73" Weight="205" Age="28.66" />
+  <Player Name="&quot;Cole Hamels&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="175" Age="23.18" />
+  <Player Name="&quot;Alfredo Simon&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="170" Age="25.81" />
+  <Player Name="&quot;Scott Mathieson&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="190" Age="23.01" />
+  <Player Name="&quot;Freddy Garcia&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="240" Age="31.72" />
+  <Player Name="&quot;Jamie Moyer&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="175" Age="44.28" />
+  <Player Name="&quot;Jon Lieber&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="230" Age="36.91" />
+  <Player Name="&quot;Brett Myers&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="223" Age="26.54" />
+  <Player Name="&quot;Adam Eaton&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="196" Age="29.27" />
+  <Player Name="&quot;Geoff Geary&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="167" Age="30.51" />
+  <Player Name="&quot;Clay Condrey&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="195" Age="31.28" />
+  <Player Name="&quot;Ryan Madson&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="190" Age="26.51" />
+  <Player Name="&quot;Antonio Alfonseca&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="250" Age="34.87" />
+  <Player Name="&quot;Tom Gordon&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Relief Pitcher&quot;" Height="70" Weight="190" Age="39.28" />
+  <Player Name="&quot;Brian Sanches&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="190" Age="28.56" />
+  <Player Name="&quot;Jim Ed Warden&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Relief Pitcher&quot;" Height="79" Weight="190" Age="27.82" />
+  <Player Name="&quot;Anderson Garcia&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="170" Age="25.94" />
+  <Player Name="&quot;Eude Brito&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="160" Age="28.53" />
+  <Player Name="&quot;Fabio Castro&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Relief Pitcher&quot;" Height="68" Weight="150" Age="22.11" />
+  <Player Name="&quot;Matt Smith&quot;" Team=" &quot;PHI&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="225" Age="27.71" />
+  <Player Name="&quot;Damian Miller&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Catcher&quot;" Height="75" Weight="220" Age="37.38" />
+  <Player Name="&quot;Johnny Estrada&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Catcher&quot;" Height="71" Weight="209" Age="30.67" />
+  <Player Name="&quot;Mike Rivera&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Catcher&quot;" Height="72" Weight="210" Age="30.48" />
+  <Player Name="&quot;J.D. Closser&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Catcher&quot;" Height="70" Weight="176" Age="27.12" />
+  <Player Name="&quot;Prince Fielder&quot;" Team=" &quot;MLW&quot;" Position=" &quot;First Baseman&quot;" Height="72" Weight="260" Age="22.81" />
+  <Player Name="&quot;Rickie Weeks&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Second Baseman&quot;" Height="72" Weight="195" Age="24.46" />
+  <Player Name="&quot;Tony Graffanino&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Second Baseman&quot;" Height="73" Weight="190" Age="34.73" />
+  <Player Name="&quot;Craig Counsell&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="184" Age="36.53" />
+  <Player Name="&quot;J.J. Hardy&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Shortstop&quot;" Height="74" Weight="180" Age="24.53" />
+  <Player Name="&quot;Bill Hall&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="195" Age="27.17" />
+  <Player Name="&quot;Vinny Rottino&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Third Baseman&quot;" Height="72" Weight="195" Age="26.9" />
+  <Player Name="&quot;Corey Koskie&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Third Baseman&quot;" Height="75" Weight="219" Age="33.67" />
+  <Player Name="&quot;Kevin Mench&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="225" Age="29.14" />
+  <Player Name="&quot;Geoff Jenkins&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="212" Age="32.61" />
+  <Player Name="&quot;Brady Clark&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="202" Age="33.87" />
+  <Player Name="&quot;Tony Gwynn Jr.&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="185" Age="24.41" />
+  <Player Name="&quot;Corey Hart&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Outfielder&quot;" Height="78" Weight="200" Age="24.94" />
+  <Player Name="&quot;Gabe Gross&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="209" Age="27.36" />
+  <Player Name="&quot;Laynce Nix&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="200" Age="26.33" />
+  <Player Name="&quot;Drew Anderson&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="195" Age="25.72" />
+  <Player Name="&quot;Claudio Vargas&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="228" Age="28.7" />
+  <Player Name="&quot;Chris Capuano&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="210" Age="28.53" />
+  <Player Name="&quot;Ben Hendrickson&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="190" Age="26.07" />
+  <Player Name="&quot;Dave Bush&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="212" Age="27.31" />
+  <Player Name="&quot;Carlos Villanueva&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="190" Age="23.26" />
+  <Player Name="&quot;Ben Sheets&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="218" Age="28.62" />
+  <Player Name="&quot;Jeff Suppan&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="220" Age="32.16" />
+  <Player Name="&quot;Brian Shouse&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="190" Age="38.43" />
+  <Player Name="&quot;Francisco Cordero&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="235" Age="31.81" />
+  <Player Name="&quot;Derrick Turnbow&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="210" Age="29.1" />
+  <Player Name="&quot;Matt Wise&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="200" Age="31.28" />
+  <Player Name="&quot;Grant Balfour&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="188" Age="29.17" />
+  <Player Name="&quot;Dennis Sarfate&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="210" Age="25.89" />
+  <Player Name="&quot;Jose Capellan&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="235" Age="26.13" />
+  <Player Name="&quot;Greg Aquino&quot;" Team=" &quot;MLW&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="188" Age="29.13" />
+  <Player Name="&quot;Josh Bard&quot;" Team=" &quot;SD&quot;" Position=" &quot;Catcher&quot;" Height="75" Weight="215" Age="28.92" />
+  <Player Name="&quot;Rob Bowen&quot;" Team=" &quot;SD&quot;" Position=" &quot;Catcher&quot;" Height="75" Weight="216" Age="26.01" />
+  <Player Name="&quot;Adrian Gonzalez&quot;" Team=" &quot;SD&quot;" Position=" &quot;First Baseman&quot;" Height="74" Weight="220" Age="24.81" />
+  <Player Name="&quot;Marcus Giles&quot;" Team=" &quot;SD&quot;" Position=" &quot;Second Baseman&quot;" Height="68" Weight="180" Age="28.79" />
+  <Player Name="&quot;Todd Walker&quot;" Team=" &quot;SD&quot;" Position=" &quot;Second Baseman&quot;" Height="72" Weight="185" Age="33.77" />
+  <Player Name="&quot;Geoff Blum&quot;" Team=" &quot;SD&quot;" Position=" &quot;Shortstop&quot;" Height="75" Weight="200" Age="33.85" />
+  <Player Name="&quot;Khalil Greene&quot;" Team=" &quot;SD&quot;" Position=" &quot;Shortstop&quot;" Height="71" Weight="210" Age="27.36" />
+  <Player Name="&quot;Paul McAnulty&quot;" Team=" &quot;SD&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="220" Age="26.01" />
+  <Player Name="&quot;Terrmel Sledge&quot;" Team=" &quot;SD&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="185" Age="29.95" />
+  <Player Name="&quot;Jack Cust&quot;" Team=" &quot;SD&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="231" Age="28.12" />
+  <Player Name="&quot;Jose Cruz Jr.&quot;" Team=" &quot;SD&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="210" Age="32.87" />
+  <Player Name="&quot;Russell Branyan&quot;" Team=" &quot;SD&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="195" Age="31.2" />
+  <Player Name="&quot;Mike Cameron&quot;" Team=" &quot;SD&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="200" Age="34.14" />
+  <Player Name="&quot;Brian Giles&quot;" Team=" &quot;SD&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="205" Age="36.11" />
+  <Player Name="&quot;Kevin Kouzmanoff&quot;" Team=" &quot;SD&quot;" Position=" &quot;Designated Hitter&quot;" Height="73" Weight="200" Age="25.6" />
+  <Player Name="&quot;Mike Thompson&quot;" Team=" &quot;SD&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="200" Age="26.31" />
+  <Player Name="&quot;Clay Hensley&quot;" Team=" &quot;SD&quot;" Position=" &quot;Starting Pitcher&quot;" Height="71" Weight="190" Age="27.5" />
+  <Player Name="&quot;Chris Young&quot;" Team=" &quot;SD&quot;" Position=" &quot;Starting Pitcher&quot;" Height="82" Weight="250" Age="27.77" />
+  <Player Name="&quot;Greg Maddux&quot;" Team=" &quot;SD&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="185" Age="40.88" />
+  <Player Name="&quot;Jake Peavy&quot;" Team=" &quot;SD&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="180" Age="25.75" />
+  <Player Name="&quot;Scott Cassidy&quot;" Team=" &quot;SD&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="170" Age="31.41" />
+  <Player Name="&quot;Scott Strickland&quot;" Team=" &quot;SD&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="180" Age="30.84" />
+  <Player Name="&quot;Scott Linebrink&quot;" Team=" &quot;SD&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="208" Age="30.57" />
+  <Player Name="&quot;Doug Brocail&quot;" Team=" &quot;SD&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="235" Age="39.79" />
+  <Player Name="&quot;Trevor Hoffman&quot;" Team=" &quot;SD&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="215" Age="39.38" />
+  <Player Name="&quot;Heath Bell&quot;" Team=" &quot;SD&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="244" Age="29.42" />
+  <Player Name="&quot;Royce Ring&quot;" Team=" &quot;SD&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="220" Age="26.19" />
+  <Player Name="&quot;Cla Meredith&quot;" Team=" &quot;SD&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="185" Age="23.74" />
+  <Player Name="&quot;Andrew Brown&quot;" Team=" &quot;SD&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="230" Age="26.03" />
+  <Player Name="&quot;Mike Adams&quot;" Team=" &quot;SD&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="190" Age="28.59" />
+  <Player Name="&quot;Justin Hampson&quot;" Team=" &quot;SD&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="200" Age="26.77" />
+  <Player Name="&quot;Kevin Cameron&quot;" Team=" &quot;SD&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="180" Age="27.21" />
+  <Player Name="&quot;Ryan Ketchner&quot;" Team=" &quot;SD&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="190" Age="24.87" />
+  <Player Name="&quot;Brian Schneider&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Catcher&quot;" Height="73" Weight="196" Age="30.26" />
+  <Player Name="&quot;Jesus Flores&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Catcher&quot;" Height="73" Weight="180" Age="22.34" />
+  <Player Name="&quot;Larry Broadway&quot;" Team=" &quot;WAS&quot;" Position=" &quot;First Baseman&quot;" Height="76" Weight="230" Age="26.2" />
+  <Player Name="&quot;Nick Johnson&quot;" Team=" &quot;WAS&quot;" Position=" &quot;First Baseman&quot;" Height="75" Weight="224" Age="28.45" />
+  <Player Name="&quot;Bernie Castro&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Second Baseman&quot;" Height="70" Weight="160" Age="27.63" />
+  <Player Name="&quot;Josh Wilson&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Shortstop&quot;" Height="73" Weight="178" Age="25.93" />
+  <Player Name="&quot;Cristian Guzman&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="205" Age="28.94" />
+  <Player Name="&quot;Felipe Lopez&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Shortstop&quot;" Height="73" Weight="185" Age="26.8" />
+  <Player Name="&quot;Ryan Zimmerman&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Third Baseman&quot;" Height="75" Weight="210" Age="22.42" />
+  <Player Name="&quot;Nook Logan&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="180" Age="27.26" />
+  <Player Name="&quot;Ryan Church&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="190" Age="28.38" />
+  <Player Name="&quot;Kory Casto&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="200" Age="25.23" />
+  <Player Name="&quot;Mike Restovich&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Outfielder&quot;" Height="76" Weight="257" Age="28.16" />
+  <Player Name="&quot;Alex Escobar&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="190" Age="28.48" />
+  <Player Name="&quot;Austin Kearns&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="220" Age="26.78" />
+  <Player Name="&quot;Chris Snelling&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="165" Age="25.24" />
+  <Player Name="&quot;Billy Traber&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="205" Age="27.45" />
+  <Player Name="&quot;Tim Redding&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="72" Weight="200" Age="29.05" />
+  <Player Name="&quot;John Patterson&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="208" Age="29.08" />
+  <Player Name="&quot;Shawn Hill&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="185" Age="25.84" />
+  <Player Name="&quot;Joel Hanrahan&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="215" Age="25.4" />
+  <Player Name="&quot;Mike O'Connor&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="170" Age="26.54" />
+  <Player Name="&quot;Emiliano Fruto&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="235" Age="22.73" />
+  <Player Name="&quot;Chris Schroder&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="210" Age="28.53" />
+  <Player Name="&quot;Brett Campbell&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="170" Age="25.37" />
+  <Player Name="&quot;Beltran Perez&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="180" Age="25.35" />
+  <Player Name="&quot;Levale Speigner&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="170" Age="26.43" />
+  <Player Name="&quot;Jason Bergmann&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="190" Age="25.43" />
+  <Player Name="&quot;Saul Rivera&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="150" Age="29.23" />
+  <Player Name="&quot;Chris Booker&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="230" Age="30.22" />
+  <Player Name="&quot;Micah Bowie&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="203" Age="32.3" />
+  <Player Name="&quot;Jon Rauch&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="83" Weight="260" Age="28.42" />
+  <Player Name="&quot;Jerome Williams&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="246" Age="25.24" />
+  <Player Name="&quot;Luis Ayala&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="186" Age="29.13" />
+  <Player Name="&quot;Ryan Wagner&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="210" Age="24.63" />
+  <Player Name="&quot;Chad Cordero&quot;" Team=" &quot;WAS&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="198" Age="24.95" />
+  <Player Name="&quot;Humberto Cota&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Catcher&quot;" Height="72" Weight="210" Age="28.06" />
+  <Player Name="&quot;Ronny Paulino&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Catcher&quot;" Height="75" Weight="215" Age="25.86" />
+  <Player Name="&quot;Adam LaRoche&quot;" Team=" &quot;PIT&quot;" Position=" &quot;First Baseman&quot;" Height="75" Weight="180" Age="27.32" />
+  <Player Name="&quot;Ryan Doumit&quot;" Team=" &quot;PIT&quot;" Position=" &quot;First Baseman&quot;" Height="72" Weight="200" Age="25.91" />
+  <Player Name="&quot;Brad Eldred&quot;" Team=" &quot;PIT&quot;" Position=" &quot;First Baseman&quot;" Height="77" Weight="245" Age="26.63" />
+  <Player Name="&quot;Jose Castillo&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Second Baseman&quot;" Height="73" Weight="200" Age="25.95" />
+  <Player Name="&quot;Jack Wilson&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Shortstop&quot;" Height="72" Weight="192" Age="29.17" />
+  <Player Name="&quot;Freddy Sanchez&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Third Baseman&quot;" Height="70" Weight="192" Age="29.19" />
+  <Player Name="&quot;Jason Bay&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="200" Age="28.44" />
+  <Player Name="&quot;Jose Bautista&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="192" Age="26.36" />
+  <Player Name="&quot;Xavier Nady&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="205" Age="28.29" />
+  <Player Name="&quot;Jody Gerut&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="190" Age="29.45" />
+  <Player Name="&quot;Nate McLouth&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="186" Age="25.34" />
+  <Player Name="&quot;Chris Duffy&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="170" Age="26.86" />
+  <Player Name="&quot;Rajai Davis&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Outfielder&quot;" Height="71" Weight="197" Age="26.36" />
+  <Player Name="&quot;Shane Youman&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="219" Age="27.39" />
+  <Player Name="&quot;Yoslan Herrera&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="200" Age="25.84" />
+  <Player Name="&quot;Josh Shortslef&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="220" Age="25.08" />
+  <Player Name="&quot;Zach Duke&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="207" Age="23.87" />
+  <Player Name="&quot;Paul Maholm&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="225" Age="24.68" />
+  <Player Name="&quot;Tom Gorzelanny&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="207" Age="24.64" />
+  <Player Name="&quot;Shawn Chacon&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="212" Age="29.19" />
+  <Player Name="&quot;Tony Armas Jr.&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="225" Age="28.84" />
+  <Player Name="&quot;Ian Snell&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Starting Pitcher&quot;" Height="71" Weight="170" Age="25.33" />
+  <Player Name="&quot;Sean Burnett&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Starting Pitcher&quot;" Height="71" Weight="190" Age="24.45" />
+  <Player Name="&quot;John Grabow&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="210" Age="28.32" />
+  <Player Name="&quot;Marty McLeary&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="230" Age="32.34" />
+  <Player Name="&quot;Salomon Torres&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Relief Pitcher&quot;" Height="71" Weight="210" Age="34.97" />
+  <Player Name="&quot;Damaso Marte&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="200" Age="32.04" />
+  <Player Name="&quot;Matt Capps&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="238" Age="23.49" />
+  <Player Name="&quot;Josh Sharpless&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="234" Age="26.09" />
+  <Player Name="&quot;Bryan Bullington&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="222" Age="26.41" />
+  <Player Name="&quot;Jonah Bayliss&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="200" Age="26.55" />
+  <Player Name="&quot;Brian Rogers&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="190" Age="24.62" />
+  <Player Name="&quot;Juan Perez&quot;" Team=" &quot;PIT&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="170" Age="28.49" />
+  <Player Name="&quot;Bengie Molina&quot;" Team=" &quot;SF&quot;" Position=" &quot;Catcher&quot;" Height="71" Weight="220" Age="32.61" />
+  <Player Name="&quot;Eliezer Alfonzo&quot;" Team=" &quot;SF&quot;" Position=" &quot;Catcher&quot;" Height="72" Weight="223" Age="28.06" />
+  <Player Name="&quot;Lance Niekro&quot;" Team=" &quot;SF&quot;" Position=" &quot;First Baseman&quot;" Height="75" Weight="210" Age="28.08" />
+  <Player Name="&quot;Mark Sweeney&quot;" Team=" &quot;SF&quot;" Position=" &quot;First Baseman&quot;" Height="73" Weight="215" Age="37.34" />
+  <Player Name="&quot;Ray Durham&quot;" Team=" &quot;SF&quot;" Position=" &quot;Second Baseman&quot;" Height="68" Weight="196" Age="35.25" />
+  <Player Name="&quot;Kevin Frandsen&quot;" Team=" &quot;SF&quot;" Position=" &quot;Second Baseman&quot;" Height="72" Weight="175" Age="24.77" />
+  <Player Name="&quot;Omar Vizquel&quot;" Team=" &quot;SF&quot;" Position=" &quot;Shortstop&quot;" Height="69" Weight="175" Age="39.85" />
+  <Player Name="&quot;Rich Aurilia&quot;" Team=" &quot;SF&quot;" Position=" &quot;Third Baseman&quot;" Height="73" Weight="189" Age="35.49" />
+  <Player Name="&quot;Pedro Feliz&quot;" Team=" &quot;SF&quot;" Position=" &quot;Third Baseman&quot;" Height="73" Weight="205" Age="31.84" />
+  <Player Name="&quot;Todd Linden&quot;" Team=" &quot;SF&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="210" Age="26.67" />
+  <Player Name="&quot;Dave Roberts&quot;" Team=" &quot;SF&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="180" Age="34.75" />
+  <Player Name="&quot;Jason Ellison&quot;" Team=" &quot;SF&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="180" Age="28.91" />
+  <Player Name="&quot;Randy Winn&quot;" Team=" &quot;SF&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="197" Age="32.73" />
+  <Player Name="&quot;Ryan Klesko&quot;" Team=" &quot;SF&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="220" Age="35.72" />
+  <Player Name="&quot;Barry Bonds&quot;" Team=" &quot;SF&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="228" Age="42.6" />
+  <Player Name="&quot;Fred Lewis&quot;" Team=" &quot;SF&quot;" Position=" &quot;Outfielder&quot;" Height="74" Weight="190" Age="26.22" />
+  <Player Name="&quot;Kelyn Acosta&quot;" Team=" &quot;SF&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="204" Age="21.85" />
+  <Player Name="&quot;Jonathan Sanchez&quot;" Team=" &quot;SF&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="165" Age="24.28" />
+  <Player Name="&quot;Matt Cain&quot;" Team=" &quot;SF&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="216" Age="22.41" />
+  <Player Name="&quot;Matt Morris&quot;" Team=" &quot;SF&quot;" Position=" &quot;Starting Pitcher&quot;" Height="77" Weight="220" Age="32.56" />
+  <Player Name="&quot;Russ Ortiz&quot;" Team=" &quot;SF&quot;" Position=" &quot;Starting Pitcher&quot;" Height="73" Weight="208" Age="32.74" />
+  <Player Name="&quot;Noah Lowry&quot;" Team=" &quot;SF&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="210" Age="26.39" />
+  <Player Name="&quot;Barry Zito&quot;" Team=" &quot;SF&quot;" Position=" &quot;Starting Pitcher&quot;" Height="76" Weight="215" Age="28.8" />
+  <Player Name="&quot;Vinnie Chulk&quot;" Team=" &quot;SF&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="195" Age="28.2" />
+  <Player Name="&quot;Kevin Correia&quot;" Team=" &quot;SF&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="200" Age="26.52" />
+  <Player Name="&quot;Steve Kline&quot;" Team=" &quot;SF&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="215" Age="34.52" />
+  <Player Name="&quot;Armando Benitez&quot;" Team=" &quot;SF&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="229" Age="34.32" />
+  <Player Name="&quot;Scott Munter&quot;" Team=" &quot;SF&quot;" Position=" &quot;Relief Pitcher&quot;" Height="78" Weight="240" Age="26.98" />
+  <Player Name="&quot;Jack Taschner&quot;" Team=" &quot;SF&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="207" Age="28.86" />
+  <Player Name="&quot;Brian Wilson&quot;" Team=" &quot;SF&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="205" Age="24.96" />
+  <Player Name="&quot;Merkin Valdez&quot;" Team=" &quot;SF&quot;" Position=" &quot;Relief Pitcher&quot;" Height="77" Weight="208" Age="25.3" />
+  <Player Name="&quot;Brad Hennessey&quot;" Team=" &quot;SF&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="185" Age="27.06" />
+  <Player Name="&quot;Billy Sadler&quot;" Team=" &quot;SF&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="190" Age="25.44" />
+  <Player Name="&quot;Pat Misch&quot;" Team=" &quot;SF&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="170" Age="25.53" />
+  <Player Name="&quot;Gary Bennett&quot;" Team=" &quot;STL&quot;" Position=" &quot;Catcher&quot;" Height="72" Weight="208" Age="34.87" />
+  <Player Name="&quot;Yadier Molina&quot;" Team=" &quot;STL&quot;" Position=" &quot;Catcher&quot;" Height="71" Weight="225" Age="24.63" />
+  <Player Name="&quot;John Nelson&quot;" Team=" &quot;STL&quot;" Position=" &quot;First Baseman&quot;" Height="73" Weight="190" Age="27.99" />
+  <Player Name="&quot;Albert Pujols&quot;" Team=" &quot;STL&quot;" Position=" &quot;First Baseman&quot;" Height="75" Weight="225" Age="27.12" />
+  <Player Name="&quot;Adam Kennedy&quot;" Team=" &quot;STL&quot;" Position=" &quot;Second Baseman&quot;" Height="73" Weight="185" Age="31.14" />
+  <Player Name="&quot;Aaron Miles&quot;" Team=" &quot;STL&quot;" Position=" &quot;Second Baseman&quot;" Height="67" Weight="180" Age="30.21" />
+  <Player Name="&quot;David Eckstein&quot;" Team=" &quot;STL&quot;" Position=" &quot;Shortstop&quot;" Height="67" Weight="165" Age="32.11" />
+  <Player Name="&quot;Scott Rolen&quot;" Team=" &quot;STL&quot;" Position=" &quot;Third Baseman&quot;" Height="76" Weight="240" Age="31.91" />
+  <Player Name="&quot;Scott Spiezio&quot;" Team=" &quot;STL&quot;" Position=" &quot;Third Baseman&quot;" Height="74" Weight="220" Age="34.44" />
+  <Player Name="&quot;Jim Edmonds&quot;" Team=" &quot;STL&quot;" Position=" &quot;Outfielder&quot;" Height="73" Weight="212" Age="36.68" />
+  <Player Name="&quot;So Taguchi&quot;" Team=" &quot;STL&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="163" Age="37.66" />
+  <Player Name="&quot;Juan Encarnacion&quot;" Team=" &quot;STL&quot;" Position=" &quot;Outfielder&quot;" Height="75" Weight="215" Age="30.98" />
+  <Player Name="&quot;Skip Schumaker&quot;" Team=" &quot;STL&quot;" Position=" &quot;Outfielder&quot;" Height="70" Weight="175" Age="27.07" />
+  <Player Name="&quot;John Rodriguez&quot;" Team=" &quot;STL&quot;" Position=" &quot;Outfielder&quot;" Height="72" Weight="205" Age="29.11" />
+  <Player Name="&quot;Chris Duncan&quot;" Team=" &quot;STL&quot;" Position=" &quot;Outfielder&quot;" Height="77" Weight="210" Age="25.82" />
+  <Player Name="&quot;Adam Wainwright&quot;" Team=" &quot;STL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="79" Weight="205" Age="25.5" />
+  <Player Name="&quot;Mark Mulder&quot;" Team=" &quot;STL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="78" Weight="208" Age="29.57" />
+  <Player Name="&quot;Anthony Reyes&quot;" Team=" &quot;STL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="74" Weight="215" Age="25.37" />
+  <Player Name="&quot;Ryan Franklin&quot;" Team=" &quot;STL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="180" Age="33.99" />
+  <Player Name="&quot;Kip Wells&quot;" Team=" &quot;STL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="75" Weight="200" Age="29.86" />
+  <Player Name="&quot;Chris Carpenter&quot;" Team=" &quot;STL&quot;" Position=" &quot;Starting Pitcher&quot;" Height="78" Weight="230" Age="31.84" />
+  <Player Name="&quot;Russ Springer&quot;" Team=" &quot;STL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="76" Weight="211" Age="38.31" />
+  <Player Name="&quot;Jason Isringhausen&quot;" Team=" &quot;STL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="230" Age="34.48" />
+  <Player Name="&quot;Ricardo Rincon&quot;" Team=" &quot;STL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="69" Weight="190" Age="36.88" />
+  <Player Name="&quot;Braden Looper&quot;" Team=" &quot;STL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="220" Age="32.34" />
+  <Player Name="&quot;Randy Flores&quot;" Team=" &quot;STL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="72" Weight="180" Age="31.58" />
+  <Player Name="&quot;Josh Hancock&quot;" Team=" &quot;STL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="205" Age="28.89" />
+  <Player Name="&quot;Brad Thompson&quot;" Team=" &quot;STL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="190" Age="25.08" />
+  <Player Name="&quot;Tyler Johnson&quot;" Team=" &quot;STL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="74" Weight="180" Age="25.73" />
+  <Player Name="&quot;Chris Narveson&quot;" Team=" &quot;STL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="205" Age="25.19" />
+  <Player Name="&quot;Randy Keisler&quot;" Team=" &quot;STL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="75" Weight="190" Age="31.01" />
+  <Player Name="&quot;Josh Kinney&quot;" Team=" &quot;STL&quot;" Position=" &quot;Relief Pitcher&quot;" Height="73" Weight="195" Age="27.92" />
+</Players>
